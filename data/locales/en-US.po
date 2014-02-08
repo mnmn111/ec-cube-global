@@ -1,0 +1,6056 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: EC-CUBE Core\n"
+"POT-Creation-Date: 2012-05-07 13T_39+0900\n"
+"PO-Revision-Date: 2013-03-25 21:05+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "c_* T_ARG2 contains the tag T_ARG1 which is not allowed. <br />_01"
+msgstr "* T_ARG2 contains the tag T_ARG1 which is not allowed. <br />"
+
+msgid "c_* T_ARG1 is blank. <br />_01"
+msgstr "* T_ARG1 is blank. <br />"
+
+msgid "c_* T_ARG1 is not selected. <br />_01"
+msgstr "* T_ARG1 is not selected. <br />"
+
+msgid "c_* Spaces, tabs and line breaks are not possible in T_ARG1. <br />_01"
+msgstr "* Spaces, tabs and line breaks are not possible in T_ARG1. <br />"
+
+msgid "c_* Do not include spaces, tabs or line breaks in T_ARG1. <br />_01"
+msgstr "* Do not include spaces, tabs or line breaks in T_ARG1. <br />"
+
+msgid ""
+"c_* A numerical value that starts with 0 has been entered for T_ARG1. <br /"
+">_01"
+msgstr ""
+"* A numerical value that starts with 0 has been entered for T_ARG1. <br />"
+
+msgid "c_* T_ARG1 and T_ARG2 do not match. <br />_01"
+msgstr "* T_ARG1 and T_ARG2 do not match. <br />"
+
+msgid "c_* The same value cannot be used for T_ARG1 and T_ARG2. <br />_01"
+msgstr "* The same value cannot be used for T_ARG1 and T_ARG2. <br />"
+
+msgid ""
+"c_* It is not possible to enter a larger value for T_ARG1 than for T_ARG2. "
+"<br />_01"
+msgstr ""
+"* It is not possible to enter a value for T_ARG1 thats larger than T_ARG2. "
+"<br />"
+
+msgid "c_* For T_ARG1, enter T_ARG2  characters or less. <br />_01"
+msgstr "* For T_ARG1, enter T_ARG2  characters or less. <br />"
+
+msgid "c_* For T_ARG1, enter T_COUNT character or more. <br />_01"
+msgid_plural "c_* For T_ARG1, enter T_COUNT characters or more. <br />_01"
+msgstr[0] "* For T_ARG1, enter T_COUNT character or more. <br />"
+msgstr[1] "* For T_ARG1, enter T_COUNT characters or more. <br />"
+
+msgid "c_* For T_ARG1, enter T_ARG2 or smaller. <br />_01"
+msgstr "* For T_ARG1, enter T_ARG2 or smaller. <br />"
+
+msgid "c_* Enter T_COUNT or higher for T_ARG1. <br />_01"
+msgid_plural "c_* Enter T_COUNT or higher for T_ARG1. <br />_02"
+msgstr[0] "* Enter T_COUNT or higher for T_ARG1. <br />"
+msgstr[1] "* Enter T_COUNT or higher for T_ARG1. <br />"
+
+msgid "c_* Enter only numbers for T_ARG1. <br />_01"
+msgstr "* Enter only numbers for T_ARG1. <br />"
+
+msgid "c_* Enter only numbers for T_ARG1. <br />_02"
+msgstr "* Enter only numbers for T_ARG1. <br />"
+
+msgid "c_* Enter alphabetical characters for T_ARG1. <br />_01"
+msgstr "* Enter alphabetical characters for T_ARG1. <br />"
+
+msgid "c_* Enter all items for T_ARG1. <br />_01"
+msgstr "* Enter all items for T_ARG1. <br />"
+
+msgid "c_* T_ARG1 must be T_ARG2 characters or less. <br />_01"
+msgstr "* T_ARG1 must be T_ARG2 characters or less. <br />"
+
+msgid "c_* Enter numbers for T_ARG1. <br />_01"
+msgstr "* Enter numbers for T_ARG1. <br />"
+
+msgid "c_* For T_ARG1, enter within a text length of T_ARG2. <br />_01"
+msgstr "* For T_ARG1, enter within a text length of T_ARG2. <br />"
+
+msgid "c_* Enter items in order, starting at the beginning. <br />_01"
+msgstr "* Enter items in order, starting at the beginning. <br />"
+
+msgid "c_* For T_ARG1, enter katakana characters. <br />_01"
+msgstr "* For T_ARG1, enter katakana characters. <br />"
+
+msgid "c_* For T_ARG1, enter katakana characters. <br />_02"
+msgstr "* For T_ARG1, enter katakana characters. <br />"
+
+msgid "c_* Enter alphanumeric characters for T_ARG1. <br />_01"
+msgstr "* Enter alphanumeric characters for T_ARG1. <br />"
+
+msgid "c_* Enter alphanumeric symbols for T_ARG1. <br />_01"
+msgstr "* Enter alphanumeric symbols for T_ARG1. <br />"
+
+msgid "c_* Enter at least 1 for T_ARG1. <br />_01"
+msgstr "* Enter at least 1 for T_ARG1. <br />"
+
+msgid "c_*  T_ARG1 must be  between T_ARG2 - T_ARG3 digits. <br />_01"
+msgstr "*  T_ARG1 must be  between T_ARG2 - T_ARG3 digits. <br />"
+
+msgid "c_* For T_ARG1, enter T_COUNT digit. <br />_01"
+msgid_plural "c_* For T_ARG1, enter T_COUNT digits. <br />_01"
+msgstr[0] "* For T_ARG1, enter T_COUNT digit. <br />"
+msgstr[1] "* For T_ARG1, enter T_COUNT digit(s). <br />"
+
+msgid "c_* The T_ARG1 format is incorrect. <br />_01"
+msgstr "* The T_ARG1 format is incorrect. <br />"
+
+msgid "c_* Enter the characters to be used in T_ARG1 correctly. <br />_01"
+msgstr "* Enter the characters to be used in T_ARG1 correctly. <br />"
+
+msgid "c_* Enter T_ARG1 correctly. <br />_01"
+msgstr "* Enter T_ARG1 correctly. <br />"
+
+msgid "c_* Enter an IP address in the proper format in T_ARG1. <br />_01"
+msgstr "* Enter an IP address in the proper format in T_ARG1. <br />"
+
+msgid "c_* The format permitted for T_ARG1 is T_ARG2. <br />_01"
+msgstr "* The format permitted for T_ARG1 is T_ARG2. <br />"
+
+msgid "c_* T_ARG1 cannot be found. <br />_01"
+msgstr "* T_ARG1 cannot be found. <br />"
+
+msgid "c_* Upload T_ARG1. <br />_01"
+msgstr "* Upload T_ARG1. <br />"
+
+msgid ""
+"c_* For the T_ARG1 file size, use a size that is T_ARG2T_ARG3 or less. <br /"
+">_01"
+msgstr ""
+"* For the T_ARG1 file size, use a size that is T_ARG2T_ARG3 or less. <br />"
+
+msgid ""
+"c_* Do not use Japanese or spaces in the file name for T_ARG1. <br />_01"
+msgstr "* Do not use Japanese or spaces in the file name for T_ARG1. <br />"
+
+msgid "c_* T_ARG1 is not correct. <br />_01"
+msgstr "* T_ARG1 is not correct. <br />"
+
+msgid "c_* Specify T_ARG1 correctly. <br />_01"
+msgstr "* Specify T_ARG1 correctly. <br />"
+
+msgid ""
+"c_* The period specification for T_ARG1 and T_ARG2 is not correct. <br />_01"
+msgstr ""
+"* The period specification for T_ARG1 and T_ARG2 is not correct. <br />"
+
+msgid "c_* The designated T_ARG1 does not exist. <br />_01"
+msgstr "* The designated T_ARG1 does not exist. <br />"
+
+msgid "c_* T_ARG1 is not for mobile phones. <br />_01"
+msgstr "* T_ARG1 is not for mobile phones. <br />"
+
+msgid "c_* T_ARG1 already used in member registration. <br />_01"
+msgstr "* T_ARG1 already used in member registration. <br />"
+
+msgid ""
+"c_* For a certain period of time after membership withdrawal, it is not "
+"possible to use the same T_ARG1. <br />_01"
+msgstr ""
+"* For a certain period of time after membership withdrawal, it is not "
+"possible to use the same T_ARG1. <br />"
+
+msgid "c_* T_ARG1 cannot be entered. <br />_01"
+msgstr "* T_ARG1 cannot be entered. <br />"
+
+msgid "c_* The file T_ARG1 does not exist. <br />_01"
+msgstr "* The file T_ARG1 does not exist. <br />"
+
+msgid "c_** Does not support the error check format (T_ARG1) **<br />_01"
+msgstr "** Does not support the error check format (T_ARG1) **<br />"
+
+msgid "c_T_ARG1<span class='red'>(* Required)</span>_01"
+msgstr "T_ARG1<span class='red'>(* Required)</span>"
+
+msgid "c_[Default value: T_ARG1]_01"
+msgstr " [Default value: T_ARG1]"
+
+msgid "c_ [Registration/update not possible] _01"
+msgstr " [Registration/update not possible] "
+
+msgid "c_A method that is not operating properly has been called._01"
+msgstr "A method that is not operating properly has been called."
+
+msgid ""
+"c_* A product in your cart is no longer being sold at this time. The item "
+"was deleted from your cart._01"
+msgstr ""
+"* A product in your cart is no longer being sold at this time. The item was "
+"deleted from your cart."
+
+msgid ""
+"c_* Delivery preparations are not ready  for T_ARG1. Please access the "
+"inquiry page for more details._01"
+msgstr ""
+"* Delivery preparations are not ready  for T_ARG1. Please access the inquiry "
+"page for more details."
+
+msgid ""
+"c_* There is a sale restriction (or inventory shortage) for T_ARG1. It is "
+"not possible to purchase a quantity that exceeds T_ARG2 in a single purchase."
+"_01"
+msgstr ""
+"* There is a sale restriction (or inventory shortage) for T_ARG1. It is not "
+"possible to purchase a quantity that exceeds T_ARG2 in a single purchase."
+
+msgid "c_* T_ARG1 is sold out._01"
+msgstr "* T_ARG1 is sold out."
+
+msgid "c_Product name / Product code / [Specification]_01"
+msgstr "Product name / Product code / [Specification]"
+
+msgid "c_Amount with tax_01"
+msgstr "Amount with tax"
+
+msgid "c_Product total_01"
+msgstr "Product total"
+
+msgid "c_Billing amount_01"
+msgstr "Billing amount"
+
+msgid "c_<Remarks>_01"
+msgstr "<Remarks>"
+
+msgid "c_Payment_01"
+msgstr "Payment"
+
+msgid "c_Thank you for your purchase._01"
+msgstr "Thank you for your purchase."
+
+msgid "c_Delivery will be based on the following below._01"
+msgstr "Delivery will be based on the following below."
+
+msgid "c_Please confirm._01"
+msgstr "Please confirm."
+
+msgid "c_Creation date: T_ARG1/T_ARG2/T_ARG3_01"
+msgstr "Creation date: T_ARG1/T_ARG2/T_ARG3"
+
+msgid "c_$ T_ARG1_01"
+msgstr "$ T_ARG1"
+
+msgid "c_Pts_01"
+msgstr "Pts"
+
+msgid "c_postal code mark_01"
+msgstr " "
+
+msgid "c_File copying failed._01"
+msgstr "File copying failed."
+
+msgid "c_Copying of T_ARG1->T_ARG2 failed._01"
+msgstr "Copying of T_ARG1->T_ARG2 failed."
+
+msgid ""
+"c_The output source image path or the output destination folder has not been "
+"designated._01"
+msgstr ""
+"The output source image path or the output destination folder has not been "
+"designated."
+
+msgid "c_The output source image was not found._01"
+msgstr "The output source image was not found."
+
+msgid "c_The image format is not supported._01"
+msgstr "The image format is not supported."
+
+msgid "c_Image output failed._01"
+msgstr "Image output failed."
+
+msgid ""
+"c_<div style=\"color: #F00; font-weight: bold; background-color: #FEB; text-"
+"align: center\">Please grant T_ARG1 user write access (777, etc.)</div>_01"
+msgstr ""
+"<div style=\"color: #F00; font-weight: bold; background-color: #FEB; text-"
+"align: center\">Please grant T_ARG1 user write access (777, etc.)</div>"
+
+msgid "c_T_ARG1../mtb_constants_init.php does not exist_01"
+msgstr "T_ARG1../mtb_constants_init.php does not exist"
+
+msgid "c_&lt;&lt;Back_01"
+msgstr "&lt;&lt;Back"
+
+msgid "c_Next&gt;&gt;_01"
+msgstr "Next&gt;&gt;"
+
+msgid "c_Please make a selection_01"
+msgstr "Please make a selection"
+
+msgid "c_(Sold out)_01"
+msgstr "(Sold out)"
+
+msgid "c_An error occurred in DB processing._01"
+msgstr "An error occurred in DB processing."
+
+msgid "c_Unknown_01"
+msgstr "Unknown"
+
+msgid "c_A method for upward compatibility was used._01"
+msgstr "A method for upward compatibility was used."
+
+msgid "c_Unknown backend.[$backend = T_ARG1]_01"
+msgstr "Unknown backend.[$backend = T_ARG1]"
+
+msgid "c_E-mail sending failed.[T_ARG1]_01"
+msgstr "E-mail sending failed.[T_ARG1]"
+
+msgid "c_Processing time: T_ARG1 seconds_01"
+msgstr "Processing time: T_ARG1 seconds"
+
+msgid "c_* T_ARG1 is not uploaded. <br />_01"
+msgstr "* T_ARG1 is not uploaded. <br />"
+
+msgid ""
+"c_* T_ARG1 is not uploaded. (If you cannot upload the file, adjust php_value "
+"upload_max_filesize for the .htaccess file)<br />_01"
+msgstr ""
+"* T_ARG1 is not uploaded. (If you cannot upload the file, adjust php_value "
+"upload_max_filesize for the .htaccess file)<br />"
+
+msgid "c_* File upload failed. <br />_01"
+msgstr "* File upload failed. <br />"
+
+msgid "c_The operation could not be loaded._01"
+msgstr "The operation could not be loaded."
+
+msgid "c_You do not have execution authority for the operation._01"
+msgstr "You do not have execution authority for the operation."
+
+msgid "c_Creation of backup directory failed_01"
+msgstr "Creation of backup directory failed"
+
+msgid "c_The following file was excluded: _01"
+msgstr "The following file was excluded: "
+
+msgid ""
+"c_The hash value does not match and the copy destination cannot be "
+"retrieved: _01"
+msgstr ""
+"The hash value does not match and the copy destination cannot be retrieved: "
+
+msgid "c_Files with the same contents were skipped: _01"
+msgstr "Files with the same contents were skipped: "
+
+msgid "c_Creation of backup file failed: _01"
+msgstr "Creation of backup file failed: "
+
+msgid "c_The copying destination does not have write access: _01"
+msgstr "The copying destination does not have write access: "
+
+msgid "c_File copying was successful: _01"
+msgstr "File copying was successful: "
+
+msgid "c_distinfo file creation was successful: _01"
+msgstr "distinfo file creation was successful: "
+
+msgid "c_distinfo file creation failed: _01"
+msgstr "distinfo file creation failed: "
+
+msgid "c_Product management_01"
+msgstr "Product management"
+
+msgid "c_Member management_01"
+msgstr "Member management"
+
+msgid "c_Orders_01"
+msgstr "Orders"
+
+msgid "c_Review_01"
+msgstr "Review"
+
+msgid ""
+"c_* This is an e-mail address already used in member registration. <br />_01"
+msgstr ""
+"* This is an e-mail address already used in member registration. <br />"
+
+msgid "c_* The specified range for the purchase amount is inadequate._01"
+msgstr "* The specified range for the purchase amount is inadequate."
+
+msgid "c_* The specified range for number of purchases is inadequate._01"
+msgstr "* The specified range for number of purchases is inadequate."
+
+msgid "c_The file exists but cannot be read_01"
+msgstr "The file exists but cannot be read"
+
+msgid "c_No order exists. (Order number: T_ARG1)_01"
+msgstr "No order exists. (Order number: T_ARG1)"
+
+msgid "c_The e-mail below has been sent._01"
+msgstr "The e-mail below has been sent."
+
+msgid "c_Confirmation of member registration_01"
+msgstr "Confirmation of member registration"
+
+msgid "c_Completion of member registration_01"
+msgstr "Completion of member registration"
+
+msgid "c_The block cannot be found_01"
+msgstr "The block cannot be found"
+
+msgid "c_Search for an address from the postal code._01"
+msgstr "Search for an address from the postal code."
+
+msgid "c_Category retrieval_01"
+msgstr "Category retrieval"
+
+msgid "c_Add product to cart_01"
+msgstr "Add product to cart"
+
+msgid "c_Empty cart_01"
+msgstr "Empty cart"
+
+msgid "c_Newly create cart_01"
+msgstr "Newly create cart"
+
+msgid "c_Cart retrieval_01"
+msgstr "Cart retrieval"
+
+msgid "c_Cart repair_01"
+msgstr "Cart repair"
+
+msgid "c_Product details information will be retrieved_01"
+msgstr "Product details information will be retrieved"
+
+msgid "c_* The requested information was not found._01"
+msgstr "* The requested information was not found."
+
+msgid "c_Product search and product list information are retrieved._01"
+msgstr "Product search and product list information are retrieved."
+
+msgid "c_E-mail address_01"
+msgstr "E-mail address"
+
+msgid "c_E-mail address (confirmation)_01"
+msgstr "E-mail address (confirmation)"
+
+msgid "Mobile e-mail address"
+msgstr "Mobile e-mail address"
+
+msgid "c_Mobile e-mail address (confirmation)_01"
+msgstr "Mobile e-mail address (confirmation)"
+
+msgid "c_Name_01"
+msgstr "Name"
+
+msgid "c_Name_02"
+msgstr "Name"
+
+msgid "c_Name (last name)_01"
+msgstr "Name (last name)"
+
+msgid "c_Name (first name)_01"
+msgstr "Name (first name)"
+
+msgid "c_Name KANA_01"
+msgstr ""
+
+msgid "c_Name (last name) KANA_01"
+msgstr ""
+
+msgid "c_Name (first name) KANA_01"
+msgstr ""
+
+msgid "c_Name of orderer (last name)_01"
+msgstr "Name of orderer (last name)"
+
+msgid "c_Name of orderer (first name)_01"
+msgstr "Name of orderer (first name)"
+
+msgid "c_Name of orderer (last name) KANA_01"
+msgstr ""
+
+msgid "c_Name of orderer (first name) KANA_01"
+msgstr ""
+
+msgid "c_Name of orderer_01"
+msgstr "Name of orderer"
+
+msgid "c_Name of orderer KANA_01"
+msgstr ""
+
+msgid "c_Prefecture_01"
+msgstr "Prefecture"
+
+msgid "c_Address 1_01"
+msgstr "Address 1"
+
+msgid "c_Address 2_01"
+msgstr "Address 2"
+
+msgid "c_TEL_01"
+msgstr "TEL"
+
+msgid "c_Telephone number_01"
+msgstr "Telephone number"
+
+msgid "c_Telephone number 1_01"
+msgstr "Telephone number 1"
+
+msgid "c_Telephone number 2_01"
+msgstr "Telephone number 2"
+
+msgid "c_Telephone number 3_01"
+msgstr "Telephone number 3"
+
+msgid "c_FAX_01"
+msgstr "FAX"
+
+msgid "c_Fax number_01"
+msgstr "Fax number"
+
+msgid "c_Fax number 1_01"
+msgstr "Fax number 1"
+
+msgid "c_Fax number 2_01"
+msgstr "Fax number 2"
+
+msgid "c_Fax number 3_01"
+msgstr "Fax number 3"
+
+msgid "c_Postal code_01"
+msgstr "Postal code"
+
+msgid "c_Postal code 1_01"
+msgstr "Postal code 1"
+
+msgid "c_Postal code 2_01"
+msgstr "Postal code 2"
+
+msgid "c_Password_01"
+msgstr "Password"
+
+msgid "c_Password (confirmation)_01"
+msgstr "Password (confirmation)"
+
+msgid "c_Question for confirming password_01"
+msgstr "Question for confirming password"
+
+msgid "c_Answer to question for confirming password_01"
+msgstr "Answer to question for confirming password"
+
+msgid "c_Gender_01"
+msgstr "Gender"
+
+msgid "c_Occupation_01"
+msgstr "Occupation"
+
+msgid "c_Date of birth_01"
+msgstr "Date of birth"
+
+msgid "c_Year_01"
+msgstr "Year"
+
+msgid "c_Month_01"
+msgstr "Month"
+
+msgid "c_Day_01"
+msgstr "Day"
+
+msgid "c_Mail magazine_01"
+msgstr "Mail magazine"
+
+msgid "c_Response type_01"
+msgstr "Response type"
+
+msgid "c_Product condition_01"
+msgstr "Product condition"
+
+msgid "c_Product ID type_01"
+msgstr "Product ID type"
+
+msgid "c_Designated ID_01"
+msgstr "Designated ID"
+
+msgid "c_CSV file_01"
+msgstr "CSV file"
+
+msgid "c_Related product quantity_01"
+msgstr "Related product quantity"
+
+msgid "c_Related product type_01"
+msgstr "Related product type"
+
+msgid "c_Review page number_01"
+msgstr "Review page number"
+
+msgid "c_Review page sort_01"
+msgstr "Review page sort"
+
+msgid "c_Related tag pages_01"
+msgstr "Related tag pages"
+
+msgid "c_Number of related tag pages_01"
+msgstr "Number of related tag pages"
+
+msgid "c_ Sort related tags_01"
+msgstr " Sort related tags"
+
+msgid "c_Category ID_01"
+msgstr "Category ID"
+
+msgid "c_Keyword_01"
+msgstr "Keyword"
+
+msgid "c_Manufacturer name_01"
+msgstr "Manufacturer name"
+
+msgid "c_Page number_01"
+msgstr "Page number"
+
+msgid "c_Sort_01"
+msgstr "Sort"
+
+msgid "c_Member ID_01"
+msgstr "Member ID"
+
+msgid "c_Member status_01"
+msgstr "Member status"
+
+msgid "c_Memo for SHOP_01"
+msgstr "Memo for SHOP"
+
+msgid "c_Points in possession_01"
+msgstr "Points in possession"
+
+msgid "c_Points added_01"
+msgstr "Points added"
+
+msgid "c_Birthday points_01"
+msgstr "Birthday points"
+
+msgid "c_Final number of points registered_01"
+msgstr "Final number of points registered"
+
+msgid "c_Current points_01"
+msgstr "Current points"
+
+msgid "c_Go back_01"
+msgstr "Go back"
+
+msgid "c_Birthday (start year)_01"
+msgstr "Birthday (start year)"
+
+msgid "c_Birthday (start month)_01"
+msgstr "Birthday (start month)"
+
+msgid "c_Birthday (start date)_01"
+msgstr "Birthday (start date)"
+
+msgid "c_Birthday (end year)_01"
+msgstr "Birthday (end year)"
+
+msgid "c_Birthday (end month)_01"
+msgstr "Birthday (end month)"
+
+msgid "c_Birthday (end date)_01"
+msgstr "Birthday (end date)"
+
+msgid "c_Birth month_01"
+msgstr "Birth month"
+
+msgid "c_Purchase amount (start)_01"
+msgstr "Purchase amount (start)"
+
+msgid "c_Purchase amount (end)_01"
+msgstr "Purchase amount (end)"
+
+msgid "c_Purchase frequency (start)_01"
+msgstr "Purchase frequency (start)"
+
+msgid "c_Purchase frequency (end)_01"
+msgstr "Purchase frequency (end)"
+
+msgid "c_Registration/update date (start year)_01"
+msgstr "Registration/update date (start year)"
+
+msgid "c_Registration/update date (start month)_01"
+msgstr "Registration/update date (start month)"
+
+msgid "c_Registration/update date (start date)_01"
+msgstr "Registration/update date (start date)"
+
+msgid "c_Registration/update date (end year)_01"
+msgstr "Registration/update date (end year)"
+
+msgid "c_Registration/update date (end month)_01"
+msgstr "Registration/update date (end month)"
+
+msgid "c_Registration/update date (end date)_01"
+msgstr "Registration/update date (end date)"
+
+msgid "c_Number of items displayed_01"
+msgstr "Number of items displayed"
+
+msgid "c_Final purchase date (start year)_01"
+msgstr "Final purchase date (start year)"
+
+msgid "c_Final purchase date (start month)_01"
+msgstr "Final purchase date (start month)"
+
+msgid "c_Final purchase date (start day)_01"
+msgstr "Final purchase date (start day)"
+
+msgid "c_Final purchase date (end year)_01"
+msgstr "Final purchase date (end year)"
+
+msgid "c_Final purchase date (end month)_01"
+msgstr "Final purchase date (end month)"
+
+msgid "c_Final purchase date (end day)_01"
+msgstr "Final purchase date (end day)"
+
+msgid "c_Purchased product_01"
+msgstr "Purchased product"
+
+msgid "c_Purchased product name_01"
+msgstr "Purchased product name"
+
+msgid "c_Purchased product code_01"
+msgstr "Purchased product code"
+
+msgid "c_Category_01"
+msgstr "Category"
+
+msgid "c_Company name_01"
+msgstr "Company name"
+
+msgid "c_Company name KANA_01"
+msgstr ""
+
+msgid "c_Store name_01"
+msgstr "Store name"
+
+msgid "c_Store name KANA_01"
+msgstr ""
+
+msgid "c_Store name (in English)_01"
+msgstr "Store name (in English)"
+
+msgid "c_Location 1_01"
+msgstr "Location 1"
+
+msgid "c_Location 2_01"
+msgstr "Location 2"
+
+msgid "c_Product order receipt e-mail address_01"
+msgstr "Product order receipt e-mail address"
+
+msgid "c_E-mail address for receiving inquiries_01"
+msgstr "E-mail address for receiving inquiries"
+
+msgid "c_E-mail address of sender_01"
+msgstr "E-mail address of sender"
+
+msgid "c_E-mail address for receiving sending errors_01"
+msgstr "E-mail address for receiving sending errors"
+
+msgid "c_Consumption sales tax rate_01"
+msgstr "Consumption sales tax rate"
+
+msgid "c_Taxation rules_01"
+msgstr "Taxation rules"
+
+msgid "c_Conditions for free shipping_01"
+msgstr "Conditions for free shipping"
+
+msgid "c_Store business hours_01"
+msgstr "Store business hours"
+
+msgid "c_Available products_01"
+msgstr "Available products"
+
+msgid "c_Message_01"
+msgstr "Message"
+
+msgid "c_Number of days during which download is possible_01"
+msgstr "Number of days during which download is possible"
+
+msgid "c_Unlimited downloads_01"
+msgstr "Unlimited downloads"
+
+msgid "c_Latitude_01"
+msgstr "Latitude"
+
+msgid "c_Longitude_01"
+msgstr "Longitude"
+
+msgid "c_Regular holiday_01"
+msgstr "Regular holiday"
+
+msgid "c_Regular holiday ID_01"
+msgstr "Regular holiday ID"
+
+msgid "c_Details of inquiry_01"
+msgstr "Details of inquiry"
+
+msgid "c_Other inquiries_01"
+msgstr "Other inquiries"
+
+msgid "c_Record_01"
+msgstr "Record"
+
+msgid "c_Login ID_01"
+msgstr "Login ID"
+
+msgid "c_Distributor_01"
+msgstr "Distributor"
+
+msgid "c_Operation director_01"
+msgstr "Operation director"
+
+msgid "c_URL_01"
+msgstr "URL"
+
+msgid "c_Title_01"
+msgstr "Title"
+
+msgid "c_Necessary fees_01"
+msgstr "Necessary fees"
+
+msgid "c_Order method_01"
+msgstr "Order method"
+
+msgid "c_Payment method ID_01"
+msgstr "Payment method ID"
+
+msgid "c_Payment method_01"
+msgstr "Payment method"
+
+msgid "c_Payment method_02"
+msgstr "Payment method"
+
+msgid "c_Payment method name_01"
+msgstr "Payment method name"
+
+msgid "c_Processing fee_01"
+msgstr "Processing fee"
+
+msgid "c_Shipping fee_01"
+msgstr "Shipping fee"
+
+msgid "c_Product shipping fee_01"
+msgstr "Product shipping fee"
+
+msgid "c_Discount_01"
+msgstr "Discount"
+
+msgid "c_Used points_01"
+msgstr "Used points"
+
+msgid "c_Points_01"
+msgstr "Points"
+
+msgid "c_Use points_01"
+msgstr "Use points"
+
+msgid "c_Delivery company_01"
+msgstr "Delivery company"
+
+msgid "c_Usage conditions(-$ Above)_01"
+msgstr "Usage conditions(-$ Above)"
+
+msgid "c_Usage conditions(-$ Less than)_01"
+msgstr "Usage conditions(-$ Less than)"
+
+msgid "c_Fixed_01"
+msgstr "Fixed"
+
+msgid "c_Logo image_01"
+msgstr "Logo image"
+
+msgid "c_Image key_01"
+msgstr "Image key"
+
+msgid "c_Payment ID_01"
+msgstr "Payment ID"
+
+msgid "c_Billing flag_01"
+msgstr "Billing flag"
+
+msgid "c_Delivery destination ID_01"
+msgstr "Delivery destination ID"
+
+msgid "c_Delivery destination_01"
+msgstr "Delivery destination"
+
+msgid "c_Delivery time_01"
+msgstr "Delivery time"
+
+msgid "c_Delivery date_01"
+msgstr "Delivery date"
+
+msgid "c_Delivery time ID_01"
+msgstr "Delivery time ID"
+
+msgid "c_Delivery date (Year)_01"
+msgstr "Delivery date (Year)"
+
+msgid "c_Delivery date (Month)_01"
+msgstr "Delivery date (Month)"
+
+msgid "c_Delivery date (Date)_01"
+msgstr "Delivery date (Date)"
+
+msgid "c_Delivery destination check_01"
+msgstr "Delivery destination check"
+
+msgid "c_Other delivery destination IDs_01"
+msgstr "Other delivery destination IDs"
+
+msgid "c_Separate shipping destination_01"
+msgstr "Separate shipping destination"
+
+msgid "c_Quantity of delivered products_01"
+msgstr "Quantity of delivered products"
+
+msgid "c_Delivery ID_01"
+msgstr "Delivery ID"
+
+msgid "c_Delivery quantity_01"
+msgstr "Delivery quantity"
+
+msgid "c_Response status_01"
+msgstr "Response status"
+
+msgid "c_Product type ID_01"
+msgstr "Product type ID"
+
+msgid "c_Unit price_01"
+msgstr "Unit price"
+
+msgid "c_Quantity_01"
+msgstr "Quantity"
+
+msgid "c_Sales price_01"
+msgstr "Sales price"
+
+msgid "c_Cart number_01"
+msgstr "Cart number"
+
+msgid "c_Number of lines_01"
+msgstr "Number of lines"
+
+msgid "c_Main list image_01"
+msgstr "Main list image"
+
+msgid "c_List - Main images_01"
+msgstr "List - Main images"
+
+msgid "c_Main image_01"
+msgstr "Main image"
+
+msgid "c_Details - Main image_01"
+msgstr "Details - Main image"
+
+msgid "c_product_class_id_01"
+msgstr "product_class_id"
+
+msgid "c_Product specification ID_01"
+msgstr "Product specification ID"
+
+msgid "c_Standard_01"
+msgstr "Standard"
+
+msgid "c_Standard 1_01"
+msgstr "Standard 1"
+
+msgid "c_Standard 2_01"
+msgstr "Standard 2"
+
+msgid "c_Standard ID_01"
+msgstr "Standard ID"
+
+msgid "c_Standard ID 1_01"
+msgstr "Standard ID 1"
+
+msgid "c_Standard ID 2_01"
+msgstr "Standard ID 2"
+
+msgid "c_Standard name_01"
+msgstr "Standard name"
+
+msgid "c_Standard name 1_01"
+msgstr "Standard name 1"
+
+msgid "c_Standard name 2_01"
+msgstr "Standard name 2"
+
+msgid "c_Standard category 1_01"
+msgstr "Standard category 1"
+
+msgid "c_Standard category 2_01"
+msgstr "Standard category 2"
+
+msgid "c_Standard category name_01"
+msgstr "Standard category name"
+
+msgid "c_New specification category ID_01"
+msgstr "New specification category ID"
+
+msgid "c_Product specification number_01"
+msgstr "Product specification number"
+
+msgid "c_Additional product specification ID_01"
+msgstr "Additional product specification ID"
+
+msgid "c_Repair product specification ID_01"
+msgstr "Repair product specification ID"
+
+msgid "c_Inventory count_01"
+msgstr "Inventory count"
+
+msgid "c_Product type_01"
+msgstr "Product type"
+
+msgid "c_Deletion flag_01"
+msgstr "Deletion flag"
+
+msgid "c_File name for download sales_01"
+msgstr "File name for download sales"
+
+msgid "c_File for download sales_01"
+msgstr "File for download sales"
+
+msgid "c_Downloaded product file name_01"
+msgstr "Downloaded product file name"
+
+msgid "c_Checkbox_01"
+msgstr "Checkbox"
+
+msgid "c_File upload key_01"
+msgstr "File upload key"
+
+msgid "c_Product ID_01"
+msgstr "Product ID"
+
+msgid "c_Product category_01"
+msgstr "Product category"
+
+msgid "c_Disclosed/not disclosed_01"
+msgstr "Disclosed/not disclosed"
+
+msgid "c_Product status_01"
+msgstr "Product status"
+
+msgid "c_Age 1_01"
+msgstr "Age 1"
+
+msgid "c_Age 2_01"
+msgstr "Age 2"
+
+msgid "c_Purchase amount 1_01"
+msgstr "Purchase amount 1"
+
+msgid "c_Purchase amount 2_01"
+msgstr "Purchase amount 2"
+
+msgid "c_Start year_01"
+msgstr "Start year"
+
+msgid "c_Start month_01"
+msgstr "Start month"
+
+msgid "c_Start day_01"
+msgstr "Start day"
+
+msgid "c_Completion year_01"
+msgstr "Completion year"
+
+msgid "c_Completion month_01"
+msgstr "Completion month"
+
+msgid "c_Completion date_01"
+msgstr "Completion date"
+
+msgid "c_Page feed number_01"
+msgstr "Page feed number"
+
+msgid "c_Footer_01"
+msgstr "Footer"
+
+msgid "c_Header_01"
+msgstr "Header"
+
+msgid "c_Template_01"
+msgstr "Template"
+
+msgid "c_Template name_01"
+msgstr "Template name"
+
+msgid "c_Template code_01"
+msgstr "Template code"
+
+msgid "c_template_code_01"
+msgstr "template_code"
+
+msgid "c_Template file_01"
+msgstr "Template file"
+
+msgid "c_E-mail title_01"
+msgstr "E-mail title"
+
+msgid "c_New category ID_01"
+msgstr "New category ID"
+
+msgid "c_Category name_01"
+msgstr "Category name"
+
+msgid "c_Current page_01"
+msgstr "Current page"
+
+msgid "c_New ID_01"
+msgstr "New ID"
+
+msgid "c_Administrator login_01"
+msgstr "Administrator login"
+
+msgid "c_Favorite product ID_01"
+msgstr "Favorite product ID"
+
+msgid "c_Cart key_01"
+msgstr "Cart key"
+
+msgid "c_Monthly_01"
+msgstr "Monthly"
+
+msgid "c_Period (Start day)_01"
+msgstr "Period (Start day)"
+
+msgid "c_Period (end day)_01"
+msgstr "Period (end day)"
+
+msgid "c_Name_03"
+msgstr "Name"
+
+msgid "c_Page ID_01"
+msgstr "Page ID"
+
+msgid "c_Terminal type ID_01"
+msgstr "Terminal type ID"
+
+msgid "c_Terminal type_01"
+msgstr "Terminal type"
+
+msgid "c_Header data_01"
+msgstr "Header data"
+
+msgid "c_Footer data_01"
+msgstr "Footer data"
+
+msgid "c_CSS file name_01"
+msgstr "CSS file name"
+
+msgid "c_Old CSS file name_01"
+msgstr "Old CSS file name"
+
+msgid "c_CSS data_01"
+msgstr "CSS data"
+
+msgid "c_Block ID_01"
+msgstr "Block ID"
+
+msgid "c_Block name_01"
+msgstr "Block name"
+
+msgid "c_Block number_01"
+msgstr "Block number"
+
+msgid "c_Block data_01"
+msgstr "Block data"
+
+msgid "c_Target ID_01"
+msgstr "Target ID"
+
+msgid "c_TOP coordinate_01"
+msgstr "TOP coordinate"
+
+msgid "c_All pages_01"
+msgstr "All pages"
+
+msgid "c_File name_01"
+msgstr "File name"
+
+msgid "c_Delivery company ID_01"
+msgstr "Delivery company ID"
+
+msgid "c_Delivery company name_01"
+msgstr "Delivery company name"
+
+msgid "c_Explanation_01"
+msgstr "Explanation"
+
+msgid "c_Voucher No. confirmation URL_01"
+msgstr "Voucher No. confirmation URL"
+
+msgid "c_Available product types_01"
+msgstr "Available product types"
+
+msgid "c_Available payment methods_01"
+msgstr "Available payment methods"
+
+msgid "c_Agreement title_01"
+msgstr "Agreement title"
+
+msgid "c_Agreement contents_01"
+msgstr "Agreement contents"
+
+msgid "c_Agreement ID_01"
+msgstr "Agreement ID"
+
+msgid "c_Point grant rate_01"
+msgstr "Point grant rate"
+
+msgid "c_Points granted during member registration_01"
+msgstr "Points granted during member registration"
+
+msgid "c_Downloaded product actual file name_01"
+msgstr "Downloaded product actual file name"
+
+msgid "c_Unlimited inventory_01"
+msgstr "Unlimited inventory"
+
+msgid "c_temp_down_file_01"
+msgstr "temp_down_file"
+
+msgid "c_save_down_file_01"
+msgstr "save_down_file"
+
+msgid "c_Shipment date Target_01"
+msgstr "Shipment date Target"
+
+msgid "c_Manufacturer_01"
+msgstr "Manufacturer"
+
+msgid "c_Manufacturer ID_01"
+msgstr "Manufacturer ID"
+
+msgid "c_Manufacturer URL_01"
+msgstr "Manufacturer URL"
+
+msgid "c_Number of sales restrictions_01"
+msgstr "Number of sales restrictions"
+
+msgid "c_Search word_01"
+msgstr "Search word"
+
+msgid "c_Remarks column (for SHOP)_01"
+msgstr "Remarks column (for SHOP)"
+
+msgid "c_List - Main comments_01"
+msgstr "List - Main comments"
+
+msgid "c_Details - Main comment_01"
+msgstr "Details - Main comment"
+
+msgid "c_save_main_list_image_01"
+msgstr "save_main_list_image"
+
+msgid "c_save_main_image_01"
+msgstr "save_main_image"
+
+msgid "c_save_main_large_image_01"
+msgstr "save_main_large_image"
+
+msgid "c_temp_main_list_image_01"
+msgstr "temp_main_list_image"
+
+msgid "c_temp_main_image_01"
+msgstr "temp_main_image"
+
+msgid "c_temp_main_large_image_01"
+msgstr "temp_main_large_image"
+
+msgid "c_has_product_class_01"
+msgstr "has_product_class"
+
+msgid "c_image_key_01"
+msgstr "image_key"
+
+msgid "c_down_key_01"
+msgstr "down_key"
+
+msgid "c_select_recommend_no_01"
+msgstr "select_recommend_no"
+
+msgid "c_Details - Main enlarged image_01"
+msgstr "Details - Main enlarged image"
+
+msgid "c_Device ID_01"
+msgstr "Device ID"
+
+msgid "c_Meta tag: Author_01"
+msgstr "Meta tag: Author"
+
+msgid "c_Meta tag: Description_01"
+msgstr "Meta tag: Description"
+
+msgid "c_Meta tag: Keywords_01"
+msgstr "Meta tag: Keywords"
+
+msgid "c_Payment deadline_01"
+msgstr "Payment deadline"
+
+msgid "c_Delivery period_01"
+msgstr "Delivery period"
+
+msgid "c_Returns and exchanges_01"
+msgstr "Returns and exchanges"
+
+msgid "c_Start line_01"
+msgstr "Start line"
+
+msgid "c_news_id_01"
+msgstr "news_id"
+
+msgid "c_Date_01"
+msgstr "Date"
+
+msgid "c_Date (year)_01"
+msgstr "Date (year)"
+
+msgid "c_Date (month)_01"
+msgstr "Date (month)"
+
+msgid "c_Date (day)_01"
+msgstr "Date (day)"
+
+msgid "c_Text_01"
+msgstr "Text"
+
+msgid "c_Open in separate window_01"
+msgstr "Open in separate window"
+
+msgid "c_Rank shift_01"
+msgstr "Rank shift"
+
+msgid "c_Edit type_01"
+msgstr "Edit type"
+
+msgid "c_Output settings list_01"
+msgstr "Output settings list"
+
+msgid "c_SQL ID_01"
+msgstr "SQL ID"
+
+msgid "c_SQL ID subject to CSV output_01"
+msgstr "SQL ID subject to CSV output"
+
+msgid "c_Selected table_01"
+msgstr "Selected table"
+
+msgid "c_SQL text_01"
+msgstr "SQL text"
+
+msgid "c_Selected file_01"
+msgstr "Selected file"
+
+msgid "c_Created file name_01"
+msgstr "Created file name"
+
+msgid "c_File_01"
+msgstr "File"
+
+msgid "c_Root directory_01"
+msgstr "Root directory"
+
+msgid "c_Current hierarchy directory_01"
+msgstr "Current hierarchy directory"
+
+msgid "c_Current hierarchy file_01"
+msgstr "Current hierarchy file"
+
+msgid "c_Tree selection status_01"
+msgstr "Tree selection status"
+
+msgid "c_Tree selection directory_01"
+msgstr "Tree selection directory"
+
+msgid "c_Rank_01"
+msgstr "Rank"
+
+msgid "c_Comment_01"
+msgstr "Comment"
+
+msgid "c_Member ID subject to editing_01"
+msgstr "Member ID subject to editing"
+
+msgid "c_Data for searching_01"
+msgstr "Data for searching"
+
+msgid "c_Header check_01"
+msgstr "Header check"
+
+msgid "c_Footer check_01"
+msgstr "Footer check"
+
+msgid "c_Repair flag_01"
+msgstr "Repair flag"
+
+msgid "c_TPL data_01"
+msgstr "TPL data"
+
+msgid "c_ID_01"
+msgstr "ID"
+
+msgid "c_PASSWORD_01"
+msgstr "PASSWORD"
+
+msgid "c_Delivery format_01"
+msgstr "Delivery format"
+
+msgid "c_Type of delivery e-mail address_01"
+msgstr "Type of delivery e-mail address"
+
+msgid "c_E-mail format_01"
+msgstr "E-mail format"
+
+msgid "c_Subject_01"
+msgstr "Subject"
+
+msgid "c_Template ID_01"
+msgstr "Template ID"
+
+msgid "c_Order number_01"
+msgstr "Order number"
+
+msgid "c_Order number 1_01"
+msgstr "Order number 1"
+
+msgid "c_Order number 2_01"
+msgstr "Order number 2"
+
+msgid "c_Order ID_01"
+msgstr "Order ID"
+
+msgid "c_Member name 1_01"
+msgstr "Member name 1"
+
+msgid "c_Member name 2_01"
+msgstr "Member name 2"
+
+msgid "c_Member name KANA 1_01"
+msgstr ""
+
+msgid "c_Member name KANA 2_01"
+msgstr ""
+
+msgid "c_Memo_01"
+msgstr "Memo"
+
+msgid "c_Item number for deletion_01"
+msgstr "Item number for deletion"
+
+msgid "c_Subtotal_01"
+msgstr "Subtotal"
+
+msgid "c_Payment total_01"
+msgstr "Payment total"
+
+msgid "c_Total consumption sales tax_01"
+msgstr "Total consumption sales tax"
+
+msgid "c_Points before order receipt_01"
+msgstr "Points before order receipt"
+
+msgid "c_Date of order receipt_01"
+msgstr "Date of order receipt"
+
+msgid "c_Shipment date_01"
+msgstr "Shipment date"
+
+msgid "c_Remarks_01"
+msgstr "Remarks"
+
+msgid "c_Date of deposit_01"
+msgstr "Date of deposit"
+
+msgid "c_Product item number_01"
+msgstr "Product item number"
+
+msgid "c_anchor_key_01"
+msgstr "anchor_key"
+
+msgid "c_Anchor key_01"
+msgstr "Anchor key"
+
+msgid "c_Download method_01"
+msgstr "Download method"
+
+msgid "c_Issuance date_01"
+msgstr "Issuance date"
+
+msgid "c_Ledger type_01"
+msgstr "Ledger type"
+
+msgid "c_Ledger title_01"
+msgstr "Ledger title"
+
+msgid "c_Ledger message line 1_01"
+msgstr "Ledger message line 1"
+
+msgid "c_Ledger message line 2_01"
+msgstr "Ledger message line 2"
+
+msgid "c_Ledger message line 3_01"
+msgstr "Ledger message line 3"
+
+msgid "c_Remarks line 1_01"
+msgstr "Remarks line 1"
+
+msgid "c_Remarks line 2_01"
+msgstr "Remarks line 2"
+
+msgid "c_Remarks line 3_01"
+msgstr "Remarks line 3"
+
+msgid "c_Point notation_01"
+msgstr "Point notation"
+
+msgid "c_Response status before change_01"
+msgstr "Response status before change"
+
+msgid "c_Response status after change_01"
+msgstr "Response status after change"
+
+msgid "c_Move order number_01"
+msgstr "Move order number"
+
+msgid "c_mode_01"
+msgstr "mode"
+
+msgid "c_plugin_id_01"
+msgstr "plugin_id"
+
+msgid "c_Priority_01"
+msgstr "Priority"
+
+msgid "c_Type_01"
+msgstr "Type"
+
+msgid "c_Poster name_01"
+msgstr "Poster name"
+
+msgid "c_Poster URL_01"
+msgstr "Poster URL"
+
+msgid "c_Recommendation level_01"
+msgstr "Recommendation level"
+
+msgid "c_Review ID_01"
+msgstr "Review ID"
+
+msgid "c_Post date_01"
+msgstr "Post date"
+
+msgid "c_Review display_01"
+msgstr "Review display"
+
+msgid "c_Post year_01"
+msgstr "Post year"
+
+msgid "c_Post month_01"
+msgstr "Post month"
+
+msgid "c_Maximum number of items that can be displayed_01"
+msgstr "Maximum number of items that can be displayed"
+
+msgid "c_Number of page number items_01"
+msgstr "Number of page number items"
+
+msgid "c_Directory name_01"
+msgstr "Directory name"
+
+msgid "c_SSL restrictions_01"
+msgstr "SSL restrictions"
+
+msgid "c_IP restriction_01"
+msgstr "IP restriction"
+
+msgid "c_Backup name_01"
+msgstr "Backup name"
+
+msgid "c_Backup memo_01"
+msgstr "Backup memo"
+
+msgid "c_Backup name (list)_01"
+msgstr "Backup name (list)"
+
+msgid "c_Table name_01"
+msgstr "Table name"
+
+msgid "c_Column name_01"
+msgstr "Column name"
+
+msgid "c_Index_01"
+msgstr "Index"
+
+msgid "c_Index (after change)_01"
+msgstr "Index (after change)"
+
+msgid "c_Admin ID_01"
+msgstr "Member ID"
+
+msgid "c_Affiliation_01"
+msgstr "Affiliation"
+
+msgid "c_Login ID before change_01"
+msgstr "Login ID before change"
+
+msgid "c_Access_01"
+msgstr "Access"
+
+msgid "c_Operating/Not operating_01"
+msgstr "Operating/Not operating"
+
+msgid "c_Page_01"
+msgstr "Page"
+
+msgid "c_Image file name_01"
+msgstr "Image file name"
+
+msgid "c_Image width_01"
+msgstr "Image width"
+
+msgid "c_Image height_01"
+msgstr "Image height"
+
+msgid "c_division_01"
+msgstr "division"
+
+msgid "c_pageno_01"
+msgstr "pageno"
+
+msgid "c_id_01"
+msgstr "id"
+
+msgid "c_customer_id_01"
+msgstr "customer_id"
+
+msgid "c_order_id_01"
+msgstr "order_id"
+
+msgid "c_product_id_01"
+msgstr "product_id"
+
+msgid "c_Operation_01"
+msgstr "Operation"
+
+msgid "c_Service_01"
+msgstr "Service"
+
+msgid "c_Style_01"
+msgstr "Style"
+
+msgid "c_Validate_01"
+msgstr "Validate"
+
+msgid "c_Version_01"
+msgstr "Version"
+
+msgid "c_Plug-in file_01"
+msgstr "Plug-in file"
+
+msgid "c_Start_01"
+msgstr "Start"
+
+msgid "c_Complete_01"
+msgstr "Complete"
+
+msgid "c_Details - Sub title T_ARG1_01"
+msgstr "Details - Sub title T_ARG1"
+
+msgid "c_Details - Sub comment T_ARG1_01"
+msgstr "Details - Sub comment T_ARG1"
+
+msgid "c_save_sub_imageT_ARG1_01"
+msgstr "save_sub_imageT_ARG1"
+
+msgid "c_save_sub_large_imageT_ARG1_01"
+msgstr "save_sub_large_imageT_ARG1"
+
+msgid "c_temp_sub_imageT_ARG1_01"
+msgstr "temp_sub_imageT_ARG1"
+
+msgid "c_temp_sub_large_imageT_ARG1_01"
+msgstr "temp_sub_large_imageT_ARG1"
+
+msgid "c_Related product comment_01"
+msgstr "Related product comment T_FILED"
+
+msgid "c_Related product IDT_ARG1_01"
+msgstr "Related product IDT_ARG1"
+
+msgid "c_recommend_deleteT_ARG1_01"
+msgstr "recommend_deleteT_ARG1"
+
+msgid "c_Details - Sub image T_ARG1_01"
+msgstr "Details - Sub image T_ARG1"
+
+msgid "c_Details - Sub enlarged image T_ARG1_01"
+msgstr "Details - Sub enlarged image T_ARG1"
+
+msgid ""
+"c_In SQL text, commands other than those related to reading and ';' "
+"symbols_01"
+msgstr ""
+"In SQL text, commands other than those related to reading and ';' symbols"
+
+msgid "c_Authentication key_01"
+msgstr "Authentication key"
+
+msgid "c_Editing is complete_01"
+msgstr "Editing is complete"
+
+msgid "c_Deletion was successful_01"
+msgstr "Deletion was successful"
+
+msgid "c_Update successful._01"
+msgstr "Update successful."
+
+msgid "c_Registration is complete._01"
+msgstr "Registration is complete."
+
+msgid "c_Delivery method settings are complete._01"
+msgstr "Delivery method settings are complete."
+
+msgid ""
+"c_E-mail settings are complete. Select a template and check the contents._01"
+msgstr ""
+"E-mail settings are complete. Select a template and check the contents."
+
+msgid "c_Point settings are complete._01"
+msgstr "Point settings are complete."
+
+msgid ""
+"c_Registration of the Act on Specified Commercial Transactions is complete."
+"_01"
+msgstr ""
+"Registration of the Act on Specified Commercial Transactions is complete."
+
+msgid "c_The folder was created._01"
+msgstr "The folder was created."
+
+msgid "c_The file was uploaded._01"
+msgstr "The file was uploaded."
+
+msgid "c_Deletion is complete._01"
+msgstr "Deletion is complete."
+
+msgid "c_The template file was uploaded._01"
+msgstr "The template file was uploaded."
+
+msgid "c_The e-mail sending ID is not correct._01"
+msgstr "The e-mail sending ID is not correct."
+
+msgid "c_The selected item was moved to T_ARG1._01"
+msgstr "The selected item was moved to T_ARG1."
+
+msgid "c_The selected item was deleted._01"
+msgstr "The selected item was deleted."
+
+msgid "c_The plug-in was installed._01"
+msgstr "The plug-in was installed."
+
+msgid "c_T_ARG1 was deleted._01"
+msgstr "T_ARG1 was deleted."
+
+msgid "c_T_ARG1 was activated._01"
+msgstr "T_ARG1 was activated."
+
+msgid "c_T_ARG1 was invalidated._01"
+msgstr "T_ARG1 was invalidated."
+
+msgid "c_The plug-in was updated._01"
+msgstr "The plug-in was updated."
+
+msgid ""
+"c_Management area settings were revised. If the URL was changed, access the "
+"new URL._01"
+msgstr ""
+"Management area settings were revised. If the URL was changed, access the "
+"new URL."
+
+msgid ""
+"c_There is an error in the settings details. Check the settings details._01"
+msgstr "There is an error in the settings details. Check the settings details."
+
+msgid "c_Backup is complete_01"
+msgstr "Backup is complete"
+
+msgid "c_There was no data subject to change._01"
+msgstr "There was no data subject to change."
+
+msgid "c_The index was successfully changed._01"
+msgstr "The index was successfully changed."
+
+msgid "c_Processing was suspended due to there being illegal data._01"
+msgstr "Processing was suspended due to there being illegal data."
+
+msgid "c_Master data settings are complete._01"
+msgstr "Master data settings are complete."
+
+msgid "c_Parameter settings is complete._01"
+msgstr "Parameter settings is complete."
+
+msgid "c_An error has occurred. Please check entered data._01"
+msgstr "An error has occurred. Please check entered data."
+
+msgid "c_Mail magazine_02"
+msgstr "Mail magazine"
+
+msgid "c_Design_01"
+msgstr "Design"
+
+msgid "c_Member_02"
+msgstr "Member"
+
+msgid "c_Edit contents_01"
+msgstr "Edit contents"
+
+msgid "c_Basic information_01"
+msgstr "Basic information"
+
+msgid "c_Products_01"
+msgstr "Products"
+
+msgid "c_Owners Store_01"
+msgstr "Owners Store"
+
+msgid "c_System_01"
+msgstr "System"
+
+msgid "c_Sales (history)_01"
+msgstr "Sales (history)"
+
+msgid "f_DATE_LONG_01"
+msgstr "Y-m-d H:i"
+
+msgid "f_NAME_FULL_SIR_01"
+msgstr "T_ARG1 T_ARG2"
+
+msgid "f_LAST_NAME_SIR_01"
+msgstr "T_ARG1"
+
+msgid "c_About this site_01"
+msgstr "About this site"
+
+msgid "c_Items in cart_01"
+msgstr "Items in cart"
+
+msgid ""
+"c_The contents of your cart were modified during product purchase. Please "
+"restart the purchasing procedure._01"
+msgstr ""
+"The contents of your cart were modified during product purchase. Please "
+"restart the purchasing procedure."
+
+msgid "c_Inquiry_01"
+msgstr "Inquiry"
+
+msgid "c_Inquiry_02"
+msgstr "Inquiriy"
+
+msgid "c_Inquiry_03"
+msgstr "Inquiry"
+
+msgid "c_Inquiry_04"
+msgstr "Inquiry"
+
+msgid "c_* The corresponding address was not found.<br />_01"
+msgstr "* The corresponding address was not found.<br />"
+
+msgid "c_Member registration_01"
+msgstr "Member registration"
+
+msgid "c_Confirmation of member registration_02"
+msgstr "Confirmation of member registration"
+
+msgid "c_Completion of member registration_02"
+msgstr "Completion of member registration"
+
+msgid "c_* Format is inadequate.<br />_01"
+msgstr "* Format is inadequate.<br />"
+
+msgid "c_The address is being searched._01"
+msgstr "The address is being searched."
+
+msgid "c_No applicable address was found._01"
+msgstr "No applicable address was found."
+
+msgid "c_Mobile e-mail registration complete_01"
+msgstr "Mobile e-mail registration complete"
+
+msgid "c_Usage agreement_01"
+msgstr "Usage agreement"
+
+msgid "c_Error_01"
+msgstr "Error"
+
+msgid "c_The page you specified does not exist._01"
+msgstr "The page you specified does not exist."
+
+msgid "c_Illegal page migration._01"
+msgstr "Illegal page migration."
+
+msgid "c_There are no products in your cart._01"
+msgstr "There are no products in your cart."
+
+msgid ""
+"c_It is not possible to add products to your cart during purchase processing."
+"_01"
+msgstr ""
+"It is not possible to add products to your cart during purchase processing."
+
+msgid ""
+"c_This procedure has been voided. The following factors may be attributable. "
+"<br />- The expiration date of the session information has passed <br /> - A "
+"new purchasing procedure was executed during an existing purchasing "
+"procedure <br />- The purchasing procedure has already been completed_01"
+msgstr ""
+"This procedure has been voided. The following factors may be attributable. "
+"<br />- The expiration date of the session information has passed <br /> - A "
+"new purchasing procedure was executed during an existing purchasing "
+"procedure <br />- The purchasing procedure has already been completed"
+
+msgid "c_The category you specified does not exist._01"
+msgstr "The category you specified does not exist."
+
+msgid "c_The e-mail address or password is not correct._01"
+msgstr "The e-mail address or password is not correct."
+
+msgid ""
+"c_The e-mail address or password is not correct.<br />If you have not "
+"completed registration, complete registration from the URL given in the "
+"temporary registration e-mail._01"
+msgstr ""
+"The e-mail address or password is not correct.<br />If you have not "
+"completed registration, complete registration from the URL given in the "
+"temporary registration e-mail."
+
+msgid "c_Unauthorized access._01"
+msgstr "Unauthorized access."
+
+msgid ""
+"c_There is a product that sold out immediately before your purchase. This "
+"procedure has been voided. We apologize for the inconvenience._01"
+msgstr ""
+"There is a product that sold out immediately before your purchase. This "
+"procedure has been voided. We apologize for the inconvenience."
+
+msgid ""
+"c_Retrieval of information regarding products in your cart failed. This "
+"procedure has been voided. We apologize for the inconvenience._01"
+msgstr ""
+"Retrieval of information regarding products in your cart failed. This "
+"procedure has been voided. We apologize for the inconvenience."
+
+msgid ""
+"c_You do not have enough points. This procedure has been voided. We "
+"apologize for the inconvenience._01"
+msgstr ""
+"You do not have enough points. This procedure has been voided. We apologize "
+"for the inconvenience."
+
+msgid "c_This product is already added to your favorites_01"
+msgstr "This product is already added to your favorites"
+
+msgid ""
+"c_File decompression failed.Write access may not have been granted to the "
+"designated directory._01"
+msgstr ""
+"File decompression failed.\n"
+"Write access may not have been granted to the designated directory."
+
+msgid "c_FTP download of file failed._01"
+msgstr "FTP download of file failed."
+
+msgid "c_FTP login failed._01"
+msgstr "FTP login failed."
+
+msgid "c_FTP login failed._02"
+msgstr "FTP login failed."
+
+msgid ""
+"c_DB creation failed. The user designated by may not have been granted DB "
+"creation access._01"
+msgstr ""
+"DB creation failed. \n"
+"The user designated by may not have been granted DB creation access."
+
+msgid ""
+"c_Import of the database structure failed. The sql file may be damaged._01"
+msgstr ""
+"Import of the database structure failed. \n"
+"The sql file may be damaged."
+
+msgid "c_The settings file does not exist in the designated path._01"
+msgstr "The settings file does not exist in the designated path."
+
+msgid ""
+"c_It is not possible to write to the file settings.Grant write access to "
+"file settings._01"
+msgstr ""
+"It is not possible to write to the file settings.\n"
+"Grant write access to file settings."
+
+msgid ""
+"c_The download file does not exist. <br /> Please inquire at the store._01"
+msgstr "The download file does not exist. <br /> Please inquire at the store."
+
+msgid "c_An error has occurred._01"
+msgstr "An error has occurred."
+
+msgid "c_Login error_01"
+msgstr "Login error"
+
+msgid ""
+"c_The ID or password is not correct.<br />Check and reenter the ID and "
+"password._01"
+msgstr ""
+"The ID or password is not correct.<br />Check and reenter the ID and "
+"password."
+
+msgid "c_Your login session has expired.<br /> Please log in again._01"
+msgstr "Your login session has expired.<br /> Please log in again."
+
+msgid "c_You cannot access this page_01"
+msgstr "You cannot access this page"
+
+msgid "c_Illegal page migration.<br />Check page again._01"
+msgstr "Illegal page migration.<br />Check page again."
+
+msgid "c_An error has occurred.<br />Check and log in again._01"
+msgstr "An error has occurred.<br />Check and log in again."
+
+msgid "c_System error_01"
+msgstr "System error"
+
+msgid ""
+"c_A system error has occurred. <br /> Please contact the site administrator."
+"_01"
+msgstr ""
+"A system error has occurred. <br /> Please contact the site administrator."
+
+msgid "c_▼▼▼ Start of debug information ▼▼▼_01"
+msgstr "▼▼▼ Start of debug information ▼▼▼"
+
+msgid "c_▲▲▲ End of debug information▲▲▲_01"
+msgstr "▲▲▲ End of debug information▲▲▲"
+
+msgid "c_If you have forgotten your password_01"
+msgstr "If you have forgotten your password"
+
+msgid ""
+"c_The e-mail address you registered is currently temporarily active.<br/"
+">Please access the URL that was sent at the time of registration to complete "
+"member registration._01"
+msgstr ""
+"The e-mail address you registered is currently temporarily active.<br/"
+">Please access the URL that was sent at the time of registration to complete "
+"member registration."
+
+msgid ""
+"c_There is an error with your name or the e-mail address is not correct._01"
+msgstr "There is an error with your name or the e-mail address is not correct."
+
+msgid "c_The secret question did not match._01"
+msgstr "The secret question did not match."
+
+msgid "c_The password has been changed._01"
+msgstr "The password has been changed."
+
+msgid ""
+"c_The e-mail address or password is not correct.If you have not completed "
+"registration, access the registration page from the URL given to you in an e-"
+"mail._01"
+msgstr ""
+"The e-mail address or password is not correct.\n"
+"If you have not completed registration, access the registration page from "
+"the URL given to you in an e-mail."
+
+msgid "c_MY page_01"
+msgstr "MY page"
+
+msgid "c_MY page (login)_01"
+msgstr "MY page (login)"
+
+msgid "c_Purchase history list_01"
+msgstr "Purchase history list"
+
+msgid "c_Edit registration details_01"
+msgstr "Edit registration details"
+
+msgid "c_MY page_02"
+msgstr "MY page"
+
+msgid "c_Edit registration details_02"
+msgstr "Edit registration details"
+
+msgid "c_Revision of member registration details (completion page)_01"
+msgstr "Revision of member registration details (completion page)"
+
+msgid "c_Add or change delivery destination_01"
+msgstr "Add or change delivery destination"
+
+msgid "c_List of Favorites_01"
+msgstr "List of Favorites"
+
+msgid "c_Purchase history details_01"
+msgstr "Purchase history details"
+
+msgid "c_E-mail history details_01"
+msgstr "E-mail history details"
+
+msgid "c_Cancel membership_01"
+msgstr "Cancel membership"
+
+msgid "c_Confirm account cancellation_01"
+msgstr "Confirm account cancellation"
+
+msgid "c_/Withdrawal procedure (completion page)_01"
+msgstr "/Withdrawal procedure (completion page)"
+
+msgid "c_Withdrawal procedure (completion page)_01"
+msgstr "Withdrawal procedure (completion page)"
+
+msgid "c_Shipping and legal information_01"
+msgstr "Shipping and legal information"
+
+msgid "c_* This product has already been added to Favorites.<br />_01"
+msgstr "* This product has already been added to Favorites.<br />"
+
+msgid "c_No designation_01"
+msgstr "No designation"
+
+msgid "c_Search results_01"
+msgstr "Search results"
+
+msgid "c_All products_01"
+msgstr "All products"
+
+msgid "c_It is not possible to register a duplicate title._01"
+msgstr "It is not possible to register a duplicate title."
+
+msgid "c_Void access._01"
+msgstr "Void access."
+
+msgid ""
+"c_* Member registration is already complete or the URL is invalid.<br />_01"
+msgstr "* Member registration is already complete or the URL is invalid.<br />"
+
+msgid ""
+"c_* The URL is invalid. Check the member registration URL listed in the e-"
+"mail._01"
+msgstr ""
+"* The URL is invalid. Check the member registration URL listed in the e-mail."
+
+msgid "c_Member registration is complete._01"
+msgstr "Member registration is complete."
+
+msgid "c_New information_01"
+msgstr "New information"
+
+msgid "c_Product list information_01"
+msgstr "Product list information"
+
+msgid "c_Unlimited inventory_02"
+msgstr "Unlimited inventory"
+
+msgid "c_Login_01"
+msgstr "Login"
+
+msgid "c_Enter customer information_01"
+msgstr "Enter customer information"
+
+msgid ""
+"c_For shopping that includes downloaded products, member registration is "
+"necessary.<br />Please carry out member registration._01"
+msgstr ""
+"For shopping that includes downloaded products, member registration is "
+"necessary.<br />Please carry out member registration."
+
+msgid ""
+"c_The e-mail address or password is not correct.If you have not completed "
+"registration, complete registration from the URL given in the temporary "
+"registration e-mail._01"
+msgstr ""
+"The e-mail address or password is not correct.\n"
+"If you have not completed registration, complete registration from the URL "
+"given in the temporary registration e-mail."
+
+msgid "c_Order complete_01"
+msgstr "Order complete"
+
+msgid "c_Confirmation_01"
+msgstr "Confirmation"
+
+msgid "c_Delivery destination_02"
+msgstr "Delivery destination"
+
+msgid ""
+"c_Module file retrieval failed. <br /> This procedure has been voided._01"
+msgstr "Module file retrieval failed. <br /> This procedure has been voided."
+
+msgid "c_Designation of multiple delivery destinations_01"
+msgstr "Designation of multiple delivery destinations"
+
+msgid "c_Please make a selection_02"
+msgstr "Please make a selection"
+
+msgid ""
+"c_* When the quantity is 0, it is not possible to enter a shipping "
+"destination.<br />_01"
+msgstr ""
+"* When the quantity is 0, it is not possible to enter a shipping destination."
+"<br />"
+
+msgid "c_* The shipping destination has not been entered.<br />_01"
+msgstr "* The shipping destination has not been entered.<br />"
+
+msgid "c_* Use T_ARG1 for the total quantity.<br />_01"
+msgstr "* Use T_ARG1 for the total quantity.<br />"
+
+msgid "c_Payment method and delivery time_01"
+msgstr "Payment method and delivery time"
+
+msgid ""
+"c_* The number of points you want to use exceeds the number of points you "
+"have.<br />_01"
+msgstr ""
+"* The number of points you want to use exceeds the number of points you have."
+"<br />"
+
+msgid ""
+"c_* The number of points you want to use exceeds the amount of your purchase."
+"<br />_01"
+msgstr ""
+"* The number of points you want to use exceeds the amount of your purchase."
+"<br />"
+
+msgid ""
+"c_* Based on the selected payment method, it is possible to use (T_ARG1 - "
+"T_ARG2) points.<br />_01"
+msgstr ""
+"* Based on the selected payment method, it is possible to use (T_ARG1 - "
+"T_ARG2) points.<br />"
+
+msgid "c_Devices not supported_01"
+msgstr "Devices not supported"
+
+msgid "c_Installation/update was successful._01"
+msgstr "Installation/update was successful."
+
+msgid "c_Please grant user write access (777, 707, etc.) for T_ARG1_01"
+msgstr "Please grant user write access (777, 707, etc.) for T_ARG1"
+
+msgid "c_○: The table was successfully created.<br />_01"
+msgstr "○: The table was successfully created.<br />"
+
+msgid "c_×: The table was not created.<br />_01"
+msgstr "×: The table was not created.<br />"
+
+msgid "c_○: Initial data was successfully created.<br />_01"
+msgstr "○: Initial data was successfully created.<br />"
+
+msgid "c_×: Initial data was not created.<br />_01"
+msgstr "×: Initial data was not created.<br />"
+
+msgid "c_○: The sequence was successfully created.<br />_01"
+msgstr "○: The sequence was successfully created.<br />"
+
+msgid "c_×: The sequence was not created.<br />_01"
+msgstr "×: The sequence was not created.<br />"
+
+msgid "c_○: The table was successfully deleted.<br />_01"
+msgstr "○: The table was successfully deleted.<br />"
+
+msgid "c_×: The table was not deleted.<br />_01"
+msgstr "×: The table was not deleted.<br />"
+
+msgid "c_○: The sequence was successfully deleted.<br />_01"
+msgstr "○: The sequence was successfully deleted.<br />"
+
+msgid "c_×: The sequence was not deleted.<br />_01"
+msgstr "×: The sequence was not deleted.<br />"
+
+msgid "c_>> ×:T_ARG1(T_ARG2)Please grant user write access (777, 707, etc.)_01"
+msgstr ""
+">> ×:T_ARG1(T_ARG2)\n"
+"Please grant user write access (777, 707, etc.)"
+
+msgid "c_>> ×:T_ARG1(T_ARG2)Please grant user write access (666, 606, etc.)_01"
+msgstr ""
+">> ×:T_ARG1(T_ARG2)\n"
+"Please grant user write access (666, 606, etc.)"
+
+msgid "c_>> ×:T_ARG1 cannot be found._01"
+msgstr ">> ×:T_ARG1 cannot be found."
+
+msgid "c_>> ×:PHP safe mode is active._01"
+msgstr ">> ×:PHP safe mode is active."
+
+msgid "c_>> ×:PHP settings directive 'magic_quotes_gpc' is active._01"
+msgstr ">> ×:PHP settings directive 'magic_quotes_gpc' is active."
+
+msgid "c_>> ○:Access authority is normal._01"
+msgstr ">> ○:Access authority is normal."
+
+msgid "c_Administrator: E-mail address_01"
+msgstr "Administrator: E-mail address"
+
+msgid "c_Administrator: Login ID_01"
+msgstr "Administrator: Login ID"
+
+msgid "c_Administrator: Password_01"
+msgstr "Administrator: Password"
+
+msgid "c_Management area: Directory_01"
+msgstr "Management area: Directory"
+
+msgid "c_Management area: SSL restriction_01"
+msgstr "Management area: SSL restriction"
+
+msgid "c_Management area: IP restriction_01"
+msgstr "Management area: IP restriction"
+
+msgid "c_URL (normal)_01"
+msgstr "URL (normal)"
+
+msgid "c_URL (secure)_01"
+msgstr "URL (secure)"
+
+msgid "c_Domain_01"
+msgstr "Domain"
+
+msgid "c_Mailer backend_01"
+msgstr "Mailer backend"
+
+msgid "c_SMTP host_01"
+msgstr "SMTP host"
+
+msgid "c_SMTP port_01"
+msgstr "SMTP port"
+
+msgid "c_SMTP user_01"
+msgstr "SMTP user"
+
+msgid "c_SMTP password_01"
+msgstr "SMTP password"
+
+msgid "c_DB type_01"
+msgstr "DB type"
+
+msgid "c_DB port_01"
+msgstr "DB port"
+
+msgid "c_DB name_01"
+msgstr "DB name"
+
+msgid "c_DB user_01"
+msgstr "DB user"
+
+msgid "c_DB password_01"
+msgstr "DB password"
+
+msgid ""
+"c_* It is not possible to designate a different hierarchy for the URL._01"
+msgstr "* It is not possible to designate a different hierarchy for the URL."
+
+msgid ""
+"c_* The designated management directory already exists. Please use a "
+"different name._01"
+msgstr ""
+"* The designated management directory already exists. Please use a different "
+"name."
+
+msgid "c_>> The script file cannot be found_01"
+msgstr ">> The script file cannot be found"
+
+msgid "c_>> Table structure was not changed.<br />_01"
+msgstr ">> Table structure was not changed.<br />"
+
+msgid ""
+"c_* The designated management directory already exists. Please use  a "
+"different name._01"
+msgstr ""
+"* The designated management directory already exists. Please use  a "
+"different name."
+
+msgid "c_* Renaming to T_ARG1 failed. Check directory access._01"
+msgstr "* Renaming to T_ARG1 failed. Check directory access."
+
+msgid "c_Administrator_01"
+msgstr "Administrator"
+
+msgid "c_SHOP master_01"
+msgstr "SHOP master"
+
+msgid "c_Sunday_01"
+msgstr "Sunday"
+
+msgid "c_Monday_01"
+msgstr "Monday"
+
+msgid "c_Tuesday_01"
+msgstr "Tuesday"
+
+msgid "c_Wednesday_01"
+msgstr "Wednesday"
+
+msgid "c_Thursday_01"
+msgstr "Thursday"
+
+msgid "c_Friday_01"
+msgstr "Friday"
+
+msgid "c_Saturday_01"
+msgstr "Saturday"
+
+msgid "c_SHOP master registration is complete._01"
+msgstr "SHOP master registration is complete."
+
+msgid "c_UPDATE was executed for dtb_baseinfo._01"
+msgstr "UPDATE was executed for dtb_baseinfo."
+
+msgid "c_INSERT was executed for dtb_baseinfo._01"
+msgstr "INSERT was executed for dtb_baseinfo."
+
+msgid "c_Delivery method settings_01"
+msgstr "Delivery method settings"
+
+msgid "c_Delivery time T_ARG1_01"
+msgstr "Delivery time T_ARG1"
+
+msgid "c_Delivery charge T_ARG1_01"
+msgstr "Delivery charge T_ARG1"
+
+msgid "c_* It is not possible register a combination of the same name.<br>_01"
+msgstr "* It is not possible register a combination of the same name.<br>"
+
+msgid "c_Holiday management_01"
+msgstr "Holiday management"
+
+msgid "c_* That day has already been registered. <br>_01"
+msgstr "* That day has already been registered. <br>"
+
+msgid "c_Membership terms and conditions_01"
+msgstr "Membership terms and conditions"
+
+msgid "c_* Registration of the same contents already exists.<br>_01"
+msgstr "* Registration of the same contents already exists.<br>"
+
+msgid "c_E-mail settings_01"
+msgstr "E-mail settings"
+
+msgid "c_Payment method settings_01"
+msgstr "Payment method settings"
+
+msgid "c_Make the usage conditions (lower limit) &#036; T_ARG1 or more.<br>_01"
+msgstr "Make the usage conditions (lower limit) &#036; T_ARG1 or more.<br>"
+
+msgid "c_Make the usage conditions (max) &#036; T_ARG1 or less.<br>_01"
+msgstr "Make the usage conditions (max) &#036; T_ARG1 or less.<br>"
+
+msgid "c_Point settings_01"
+msgstr "Point settings"
+
+msgid "c_SEO management_01"
+msgstr "SEO management"
+
+msgid "c_PC site_01"
+msgstr "PC site"
+
+msgid "c_Mobile site_01"
+msgstr "Mobile site"
+
+msgid "c_Smartphone_01"
+msgstr "Smartphone"
+
+msgid "c_Transaction rules_01"
+msgstr "Transaction rules"
+
+msgid "c_Postal code registration_01"
+msgstr "Postal code registration"
+
+msgid "c_DB registration in progress_01"
+msgstr "DB registration in progress"
+
+msgid "c_<p>Completed.<br /> T_ARG1 items were added.</p>_01"
+msgstr "<p>Completed.<br /> T_ARG1 items were added.</p>"
+
+msgid "c_<p><a href='?' target='_top'>Go back</a></p>_01"
+msgstr "<p><a href='?' target='_top'>Go back</a></p>"
+
+msgid "c_T_ARG1 reading failed._01"
+msgstr "T_ARG1 reading failed."
+
+msgid "c_T_ARG1 cannot be opened._01"
+msgstr "T_ARG1 cannot be opened."
+
+msgid "c_T_ARG1 retrieval failed._01"
+msgstr "T_ARG1 retrieval failed."
+
+msgid "c_T_ARG1 writing failed._01"
+msgstr "T_ARG1 writing failed."
+
+msgid "c_T_ARG1 cannot be opened._02"
+msgstr "T_ARG1 cannot be opened."
+
+msgid "c_The target file was not found in T_ARG1._01"
+msgstr "The target file was not found in T_ARG1."
+
+msgid "c_T_ARG1 decompression failed._01"
+msgstr "T_ARG1 decompression failed."
+
+msgid "c_T_ARG1 cannot be deleted._01"
+msgstr "T_ARG1 cannot be deleted."
+
+msgid "c_The file name cannot be changed.: T_ARG1 -> TFIELF2_01"
+msgstr "The file name cannot be changed.: T_ARG1 -> TFIELF2"
+
+msgid "c_Management of new information_01"
+msgstr "Management of new information"
+
+msgid "c_CSV output settings_01"
+msgstr "CSV output settings"
+
+msgid "c_* The SQL text is not correct. Please revise the SQL text_01"
+msgstr "* The SQL text is not correct. Please revise the SQL text"
+
+msgid "c_Data table: T_ARG1_01"
+msgstr "Data table: T_ARG1"
+
+msgid "c_Master table: T_ARG1_01"
+msgstr "Master table: T_ARG1"
+
+msgid "c_File management_01"
+msgstr "File management"
+
+msgid "c_* It is not possible to download the directory.<br/>_01"
+msgstr "* It is not possible to download the directory.<br/>"
+
+msgid "c_* T_ARG1 creation failed.<br/>_01"
+msgstr "* T_ARG1 creation failed.<br/>"
+
+msgid "c_Recommended products_01"
+msgstr "Recommended products"
+
+msgid "c_Product search_01"
+msgstr "Product search"
+
+msgid "c_Member master_01"
+msgstr "Member master"
+
+msgid "c_Member registration_02"
+msgstr "Member registration"
+
+msgid "c_* This address is already used by another member (ID:T_ARG1)._01"
+msgstr "* This address is already used by another member (ID:T_ARG1)."
+
+msgid ""
+"c_* This mobile address is already used by another member (ID:T_ARG1)._01"
+msgstr "* This mobile address is already used by another member (ID:T_ARG1)."
+
+msgid "c_Member search_01"
+msgstr "Member search"
+
+msgid "c_Layout settings_01"
+msgstr "Layout settings"
+
+msgid "c_Block settings_01"
+msgstr "Block settings"
+
+msgid "c_* Block writing failed<br />_01"
+msgstr "* Block writing failed<br />"
+
+msgid "c_* Block deletion failed<br />_01"
+msgstr "* Block deletion failed<br />"
+
+msgid ""
+"c_* Data for the same file name exists. Enter a different file name.<br />_01"
+msgstr ""
+"* Data for the same file name exists. Enter a different file name.<br />"
+
+msgid "c_CSS settings_01"
+msgstr "CSS settings"
+
+msgid "c_* Deletion of the old file failed<br />_01"
+msgstr "* Deletion of the old file failed<br />"
+
+msgid "c_* CSS writing failed<br />_01"
+msgstr "* CSS writing failed<br />"
+
+msgid "c_* CSS deletion failed<br />_01"
+msgstr "* CSS deletion failed<br />"
+
+msgid "c_Header/footer settings_01"
+msgstr "Header/footer settings"
+
+msgid "c_* File retrieval failed<br />_01"
+msgstr "* File retrieval failed<br />"
+
+msgid "c_* File writing failed<br />_01"
+msgstr "* File writing failed<br />"
+
+msgid "c_Page detail settings_01"
+msgstr "Page detail settings"
+
+msgid "c_* PHP file creation failed<br />_01"
+msgstr "* PHP file creation failed<br />"
+
+msgid "c_* TPL file writing failed<br />_01"
+msgstr "* TPL file writing failed<br />"
+
+msgid "c_* Enter the URL again.<br />_01"
+msgstr "* Enter the URL again.<br />"
+
+msgid "c_* Data for the same URL exists. Enter a different URL.<br />_01"
+msgstr "* Data for the same URL exists. Enter a different URL.<br />"
+
+msgid "c_Template settings_01"
+msgstr "Template settings"
+
+msgid ""
+"c_* The default template and template that is currently selected cannot be "
+"deleted<br />_01"
+msgstr ""
+"* The default template and template that is currently selected cannot be "
+"deleted<br />"
+
+msgid "c_* The template could not be deleted<br />_01"
+msgstr "* The template could not be deleted<br />"
+
+msgid "c_* T_ARG1 cannot be found.<br />_01"
+msgstr "* T_ARG1 cannot be found.<br />"
+
+msgid "c_* Directory creation failed<br />_01"
+msgstr "* Directory creation failed<br />"
+
+msgid "c_* Archive file creation failed<br />_01"
+msgstr "* Archive file creation failed<br />"
+
+msgid "c_Template addition_01"
+msgstr "Template addition"
+
+msgid "c_* A file with the same name already exists.<br/>_01"
+msgstr "* A file with the same name already exists.<br/>"
+
+msgid "c_* This template code cannot be used.<br/>_01"
+msgstr "* This template code cannot be used.<br/>"
+
+msgid "c_* This template code is already registered.<br/>_01"
+msgstr "* This template code is already registered.<br/>"
+
+msgid ""
+"c_* The template file could not be decompressed. The permissible formats are "
+"tar/tar.gz.<br />_01"
+msgstr ""
+"* The template file could not be decompressed. The permissible formats are "
+"tar/tar.gz.<br />"
+
+msgid "c_* The template folder could not be created.<br/>_01"
+msgstr "* The template folder could not be created.<br/>"
+
+msgid "c_* Smarty compile folder could not be created.<br/>_01"
+msgstr "* Smarty compile folder could not be created.<br/>"
+
+msgid "c_* Decompression of the template file failed.<br/>_01"
+msgstr "* Decompression of the template file failed.<br/>"
+
+msgid "c_Delivery content settings_01"
+msgstr "Delivery content settings"
+
+msgid "c_Both_01"
+msgstr "Both"
+
+msgid "c_HTML_01"
+msgstr "HTML"
+
+msgid "c_TEXT_02"
+msgstr "TEXT"
+
+msgid "c_[T_ARG1]_01"
+msgstr "[T_ARG1]"
+
+msgid "c_Delivery history_01"
+msgstr "Delivery history"
+
+msgid "c_Preview_01"
+msgstr "Preview"
+
+msgid "c_Template settings_02"
+msgstr "Template settings"
+
+msgid "c_Order master_01"
+msgstr "Order master"
+
+msgid "c_Order receipt information display_01"
+msgstr "Order receipt information display"
+
+msgid "c_Order receipt registration_01"
+msgstr "Order receipt registration"
+
+msgid "c_Order receipt has been registered._01"
+msgstr "Order receipt has been registered."
+
+msgid "c_Order receipt has been edited._01"
+msgstr "Order receipt has been edited."
+
+msgid "c_None_01"
+msgstr "None"
+
+msgid ""
+"c_There is an inventory shortage for T_ARG1/(T_ARG2)/(T_ARG3). Up to T_ARG4 "
+"can be set for the quantity.<br />_1"
+msgstr ""
+"There is an inventory shortage for T_ARG1/(T_ARG2)/(T_ARG3). Up to T_ARG4 "
+"can be set for the quantity.<br />"
+
+msgid "c_Adjust so that the total amount is not a negative number.<br />_01"
+msgstr "Adjust so that the total amount is not a negative number.<br />"
+
+msgid ""
+"c_Adjust so that a negative number is not displayed for the payment total."
+"<br />_01"
+msgstr ""
+"Adjust so that a negative number is not displayed for the payment total.<br /"
+">"
+
+msgid ""
+"c_Adjust the final number of points registered so that it does not become a "
+"negative number.<br />_01"
+msgstr ""
+"Adjust the final number of points registered so that it does not become a "
+"negative number.<br />"
+
+msgid "c_Order receipt management_01"
+msgstr "Order receipt management"
+
+msgid "c_Order receipt management mail confirmation_01"
+msgstr "Order receipt management mail confirmation"
+
+msgid "c_Multiple shipping settings_01"
+msgstr "Multiple shipping settings"
+
+msgid "c_Ledger output_01"
+msgstr "Ledger output"
+
+msgid "c_Delivery slip_01"
+msgstr "Delivery slip"
+
+msgid "c_Open in browser_01"
+msgstr "Open in browser"
+
+msgid "c_Save to file_01"
+msgstr "Save to file"
+
+msgid "c_Detailed purchase statement (delivery slip)_01"
+msgstr "Detailed purchase statement (delivery slip)"
+
+msgid "c_Enter a number for the issuance year._01"
+msgstr "Enter a number for the issuance year."
+
+msgid "c_Enter a number for the issuance month._01"
+msgstr "Enter a number for the issuance month."
+
+msgid "c_Enter between 1 - 12 for the issuance month_01"
+msgstr "Enter between 1 - 12 for the issuance month"
+
+msgid "c_Enter a number for the issuance date._01"
+msgstr "Enter a number for the issuance date."
+
+msgid "c_Enter a number between 1- 31 for the issuance date._01"
+msgstr "Enter a number between 1- 31 for the issuance date."
+
+msgid "c_Product selection_01"
+msgstr "Product selection"
+
+msgid "c_Response status_02"
+msgstr "Response status"
+
+msgid "c_Plug-in management_01"
+msgstr "Plug-in management"
+
+msgid "c_* T_ARG1 is already installed.<br/>_01"
+msgstr "* T_ARG1 is already installed.<br/>"
+
+msgid "c_* DB registration failed.<br/>_01"
+msgstr "* DB registration failed.<br/>"
+
+msgid "c_* PLUGIN_CODE is not defined.<br/>_01"
+msgstr "* PLUGIN_CODE is not defined.<br/>"
+
+msgid "c_* PLUGIN_NAME is not defined.<br/>_01"
+msgstr "* PLUGIN_NAME is not defined.<br/>"
+
+msgid "c_* CLASS_NAME is not defined.<br/>_01"
+msgstr "* CLASS_NAME is not defined.<br/>"
+
+msgid "c_* CLASS_NAME is not properly defined.<br/>_01"
+msgstr "* CLASS_NAME is not properly defined.<br/>"
+
+msgid "c_* PLUGIN_VERSION is not defined.<br/>_01"
+msgstr "* PLUGIN_VERSION is not defined.<br/>"
+
+msgid "c_* COMPLIANT_VERSION is not defined.<br/>_01"
+msgstr "* COMPLIANT_VERSION is not defined.<br/>"
+
+msgid "c_* AUTHOR is not defined.<br/>_01"
+msgstr "* AUTHOR is not defined.<br/>"
+
+msgid "c_* DESCRIPTION is not defined.<br/>_01"
+msgstr "* DESCRIPTION is not defined.<br/>"
+
+msgid "c_* The plug-in code does not match<br/>_01"
+msgstr "* The plug-in code does not match<br/>"
+
+msgid "c_* Decompression failed.<br/>_01"
+msgstr "* Decompression failed.<br/>"
+
+msgid "c_* T_ARG1 reading failed.<br/>_01"
+msgstr "* T_ARG1 reading failed.<br/>"
+
+msgid "c_* T_ARG2 was not found in T_ARG1.php.<br/>_01"
+msgstr "* T_ARG2 was not found in T_ARG1.php.<br/>"
+
+msgid "c_Decompression:_01"
+msgstr "Decompression:"
+
+msgid "c_*There is the possibility of competition with T_ARG1.<br/>_01"
+msgstr "*There is the possibility of competition with T_ARG1.<br/>"
+
+msgid "c_Log management_01"
+msgstr "Log management"
+
+msgid "c_Module management_01"
+msgstr "Module management"
+
+msgid "c_Authentication key settings_01"
+msgstr "Authentication key settings"
+
+msgid "c_Product master_01"
+msgstr "Product master"
+
+msgid "c_Category registration_01"
+msgstr "Category registration"
+
+msgid "c_* Cannot be deleted since a subcategory exists.<br/>_01"
+msgstr "* Cannot be deleted since a subcategory exists.<br/>"
+
+msgid ""
+"c_* The category cannot be deleted since there are products in the category."
+"<br/>_01"
+msgstr ""
+"* The category cannot be deleted since there are products in the category."
+"<br/>"
+
+msgid ""
+"c_* The maximum number of categories that can be registered has been "
+"exceeded.<br/>_01"
+msgstr ""
+"* The maximum number of categories that can be registered has been exceeded."
+"<br/>"
+
+msgid ""
+"c_* Registration of the T_ARG1 hierarchy or higher is not possible.<br/>_01"
+msgstr "* Registration of the T_ARG1 hierarchy or higher is not possible.<br/>"
+
+msgid "c_* Registration of the same contents already exists.<br/>_01"
+msgstr "* Registration of the same contents already exists.<br/>"
+
+msgid "c_Standard management_01"
+msgstr "Standard management"
+
+msgid "c_* Registration of the same contents already exists.<br>_02"
+msgstr "* Registration of the same contents already exists.<br>"
+
+msgid "c_Standard management>category registration_01"
+msgstr "Standard management>category registration"
+
+msgid "c_* Registration of the same contents already exists.<br>_03"
+msgstr "* Registration of the same contents already exists.<br>"
+
+msgid "c_Manufacturer registration_01"
+msgstr "Manufacturer registration"
+
+msgid "c_* The manufacturer ID is inadequate<br />_01"
+msgstr "* The manufacturer ID is inadequate<br />"
+
+msgid "c_* Registration of the same contents already exists.<br />_01"
+msgstr "* Registration of the same contents already exists.<br />"
+
+msgid "c_Product registration_01"
+msgstr "Product registration"
+
+msgid "c_* This is a related product that is already registered.<br />_01"
+msgstr "* This is a related product that is already registered.<br />"
+
+msgid "c_Product registration (product specification)_01"
+msgstr "Product registration (product specification)"
+
+msgid "c_* A standard is not selected.<br />_01"
+msgstr "* A standard is not selected.<br />"
+
+msgid "c_* Inventory count is not entered.<br />_01"
+msgstr "* Inventory count is not entered.<br />"
+
+msgid "c_* Select one for the product type.<br />_01"
+msgstr "* Select one for the product type.<br />"
+
+msgid ""
+"c_* For downloaded products, enter the name of the downloaded file.<br />_01"
+msgstr ""
+"* For downloaded products, enter the name of the downloaded file.<br />"
+
+msgid ""
+"c_* For downloaded products, please upload the file for the downloaded "
+"product. <br />_01"
+msgstr ""
+"* For downloaded products, please upload the file for the downloaded "
+"product. <br />"
+
+msgid ""
+"c_* For regular products, it is not possible to set a download file name."
+"<br />_01"
+msgstr ""
+"* For regular products, it is not possible to set a download file name.<br />"
+
+msgid ""
+"c_* For actual products, it is not possible to upload the file for the "
+"downloaded product. <br /> Please cancel the file. <br />_01"
+msgstr ""
+"* For actual products, it is not possible to upload the file for the "
+"downloaded product. <br /> Please cancel the file. <br />"
+
+msgid "c_* The file is not uploaded._01"
+msgstr "* The file is not uploaded."
+
+msgid ""
+"c_* For the file size of the file name for download sales, use one that is "
+"T_ARG1T_ARG2 or less <br />_01"
+msgstr ""
+"* For the file size of the file name for download sales, use one that is "
+"T_ARG1T_ARG2 or less <br />"
+
+msgid "c_* The format permitted for T_ARG1 is T_ARG2.<br />_01"
+msgstr "* The format permitted for T_ARG1 is T_ARG2.<br />"
+
+msgid "c_Product rearrangement_01"
+msgstr "Product rearrangement"
+
+msgid "c_Review management_01"
+msgstr "Review management"
+
+msgid "c_Product registration CSV_01"
+msgstr "Product registration CSV"
+
+msgid "c_Line T_ARG1: T_ARG2_01"
+msgstr "Line T_ARG1: T_ARG2"
+
+msgid ""
+"c_* T_ARG1 was detected for the item quantity. The item quantity is T_ARG2."
+"_01"
+msgstr ""
+"* T_ARG1 was detected for the item quantity. The item quantity is T_ARG2."
+
+msgid "c_Product ID: T_ARG1 / Product name: T_ARG2_01"
+msgstr "Product ID: T_ARG1 / Product name: T_ARG2"
+
+msgid "c_* The designated product specification ID is not registered._01"
+msgstr "* The designated product specification ID is not registered."
+
+msgid ""
+"c_* During product specification ID designation, it is necessary to "
+"designate a product ID._01"
+msgstr ""
+"* During product specification ID designation, it is necessary to designate "
+"a product ID."
+
+msgid ""
+"c_* The designated product ID and production specification ID combination is "
+"not correct._01"
+msgstr ""
+"* The designated product ID and production specification ID combination is "
+"not correct."
+
+msgid "c_* The designated display status is not registered._01"
+msgstr "* The designated display status is not registered."
+
+msgid "c_* The designated manufacturer ID is not registered._01"
+msgstr "* The designated manufacturer ID is not registered."
+
+msgid "c_* The designated target delivery date ID is not registered._01"
+msgstr "* The designated target delivery date ID is not registered."
+
+msgid "c_* The specified product ID does not exist._01"
+msgstr "* The specified product ID does not exist."
+
+msgid "c_* The designated relevant product ID (T_ARG1) is not registered._01"
+msgstr "* The designated relevant product ID (T_ARG1) is not registered."
+
+msgid ""
+"c_* The designated relevant product ID (T_ARG1) is already registered._01"
+msgstr "* The designated relevant product ID (T_ARG1) is already registered."
+
+msgid "c_* The designated category ID is not registered._01"
+msgstr "* The designated category ID is not registered."
+
+msgid "c_* The designated product status ID is not registered._01"
+msgstr "* The designated product status ID is not registered."
+
+msgid ""
+"c_* Only '0' (active) and '1' (delete) are effective for the deletion flag. "
+"_01"
+msgstr ""
+"* Only '0' (active) and '1' (delete) are effective for the deletion flag. "
+
+msgid "c_* For actual products, a download file name cannot be used._01"
+msgstr "* For actual products, a download file name cannot be used."
+
+msgid ""
+"c_* For actual products,  file upload for the downloaded product cannot be "
+"used._01"
+msgstr ""
+"* For actual products,  file upload for the downloaded product cannot be "
+"used."
+
+msgid ""
+"c_* For downloaded products, the name of the downloaded file is required._01"
+msgstr ""
+"* For downloaded products, the name of the downloaded file is required."
+
+msgid ""
+"c_* For downloaded products, it is necessary to upload the file for the "
+"downloaded product._01"
+msgstr ""
+"* For downloaded products, it is necessary to upload the file for the "
+"downloaded product."
+
+msgid "c_Category registration CSV_01"
+msgstr "Category registration CSV"
+
+msgid "c_Category ID: T_ARG1 /Category name: T_ARG2_01"
+msgstr "Category ID: T_ARG1 /Category name: T_ARG2"
+
+msgid "c_* The designated new category ID (T_ARG1) does not exist._01"
+msgstr "* The designated new category ID (T_ARG1) does not exist."
+
+msgid "c_* A category of the same name already exists._01"
+msgstr "* A category of the same name already exists."
+
+msgid ""
+"c_* The maximum number of categories that can be registered has been "
+"exceeded._01"
+msgstr ""
+"* The maximum number of categories that can be registered has been exceeded."
+
+msgid "c_* Registration of the T_ARG1 hierarchy or higher is not possible._01"
+msgstr "* Registration of the T_ARG1 hierarchy or higher is not possible."
+
+msgid "c_Admin management_01"
+msgstr "Admin management"
+
+msgid "c_Not operating_01"
+msgstr "Not operating"
+
+msgid "c_Operating_01"
+msgstr "Operating"
+
+msgid "c_Management screen settings_01"
+msgstr "Management screen settings"
+
+msgid "c_You do not have access to change T_ARG1._01"
+msgstr "You do not have access to change T_ARG1."
+
+msgid ""
+"c_T_ARG1 already exists. Please designate a different directory name._01"
+msgstr "T_ARG1 already exists. Please designate a different directory name."
+
+msgid "c_You do not have access to change the T_ARG1 directory name._01"
+msgstr "You do not have access to change the T_ARG1 directory name."
+
+msgid "c_The T_ARG1 directory name could not be changed._01"
+msgstr "The T_ARG1 directory name could not be changed."
+
+msgid "c_Backup management_01"
+msgstr "Backup management"
+
+msgid "c_Backup failed.(T_ARG1)_01"
+msgstr "Backup failed.(T_ARG1)"
+
+msgid "c_Restoration of 'T_ARG1' will begin._01"
+msgstr "Restoration of 'T_ARG1' will begin."
+
+msgid "c_[T_ARG1] _01"
+msgstr "[T_ARG1] "
+
+msgid "c_Restoration is complete._01"
+msgstr "Restoration is complete."
+
+msgid "c_Restoration failed._01"
+msgstr "Restoration failed."
+
+msgid "c_The backup name is duplicated. Enter a different name._01"
+msgstr "The backup name is duplicated. Enter a different name."
+
+msgid "c_The selected data was not found. It may already have been deleted._01"
+msgstr "The selected data was not found. It may already have been deleted."
+
+msgid "c_(No record. Only backup file available.)_01"
+msgstr "(No record. Only backup file available.)"
+
+msgid "c_Decompression of backup file failed._01"
+msgstr ""
+"Decompression of backup file failed.\n"
+" "
+
+msgid "c_Decompression source: T_ARG1 _01"
+msgstr ""
+"Decompression source: T_ARG1 \n"
+" "
+
+msgid "c_Decompression destination: T_ARG1_01"
+msgstr "Decompression destination: T_ARG1"
+
+msgid "c_Opening the T_ARG1 file failed._01"
+msgstr "Opening the T_ARG1 file failed."
+
+msgid "c_Restoration execution: T_ARG1_01"
+msgstr "Restoration execution: T_ARG1"
+
+msgid "c_Advanced database management_01"
+msgstr "Advanced database management"
+
+msgid "c_Member registration/editing_01"
+msgstr "Member registration/editing"
+
+msgid "c_This name is already registered and cannot be used.<br>_01"
+msgstr "This name is already registered and cannot be used.<br>"
+
+msgid "c_This ID is already registered and cannot be used.<br>_01"
+msgstr "This ID is already registered and cannot be used.<br>"
+
+msgid "c_EC-CUBE log display_01"
+msgstr "EC-CUBE log display"
+
+msgid "c_An illegal log was designated._01"
+msgstr "An illegal log was designated."
+
+msgid "c_Standard log file_01"
+msgstr "Standard log file"
+
+msgid "c_Member login log file_01"
+msgstr "Member login log file"
+
+msgid "c_Management area log file_01"
+msgstr "Management area log file"
+
+msgid "c_Debug log file_01"
+msgstr "Debug log file"
+
+msgid "c_Error log file_01"
+msgstr "Error log file"
+
+msgid "c_DB log file_01"
+msgstr "DB log file"
+
+msgid "c_Master data management_01"
+msgstr "Master data management"
+
+msgid "c_Since T_ARG1 is duplicated, registration is not possible._01"
+msgstr "Since T_ARG1 is duplicated, registration is not possible."
+
+msgid "c_Parameter settings_01"
+msgstr "Parameter settings"
+
+msgid "c_System information_01"
+msgstr "System information"
+
+msgid "c_EC-CUBE_01"
+msgstr "EC-CUBE"
+
+msgid "c_Server OS_01"
+msgstr "Server OS"
+
+msgid "c_DB server_01"
+msgstr "DB server"
+
+msgid "c_WEB server_01"
+msgstr "WEB server"
+
+msgid "c_Enabled_01"
+msgstr "Enabled"
+
+msgid "c_Inactive_01"
+msgstr "Inactive"
+
+msgid "c_GD_01"
+msgstr "GD"
+
+msgid "c_HTTP user agent_01"
+msgstr "HTTP user agent"
+
+msgid "c_Sales by period_01"
+msgstr "Sales by period"
+
+msgid "c_Sales by product_01"
+msgstr "Sales by product"
+
+msgid "c_Sales by age group_01"
+msgstr "Sales by age group"
+
+msgid "c_Sales  by occupation_01"
+msgstr "Sales  by occupation"
+
+msgid "c_Sales by member_01"
+msgstr "Sales by member"
+
+msgid "c_T_ARG1/T_ARG2/T_ARG3_01"
+msgstr "T_ARG1/T_ARG2/T_ARG3"
+
+msgid "c_Sales period: T_ARG1 - T_ARG2_01"
+msgstr "Sales period: T_ARG1 - T_ARG2"
+
+msgid "c_Non-member_01"
+msgstr "Non-member"
+
+msgid "c_Not answered_01"
+msgstr "Not answered"
+
+msgid "c_T_ARG1s_01"
+msgstr "T_ARG1's"
+
+msgid "c_(Age)_01"
+msgstr "(Age)"
+
+msgid "c_(Total sales)_01"
+msgstr "(Total sales)"
+
+msgid "c_(By month)_01"
+msgstr "(By month)"
+
+msgid "c_(By year)_01"
+msgstr "(By year)"
+
+msgid "c_(By day)_01"
+msgstr "(By day)"
+
+msgid "c_(By time)_01"
+msgstr "(By time)"
+
+msgid "c_(By date)_01"
+msgstr "(By date)"
+
+msgid "c_Total_01"
+msgstr "Total"
+
+msgid "c_Product code_01"
+msgstr "Product code"
+
+msgid "c_Product name_01"
+msgstr "Product name"
+
+msgid "c_Number of items purchased_01"
+msgstr "Number of items purchased"
+
+msgid "c_Amount_01"
+msgstr "Amount"
+
+msgid "c_Purchase total_01"
+msgstr "Purchase total"
+
+msgid "c_Purchase average_01"
+msgstr "Purchase average"
+
+msgid "c_Member_01"
+msgstr "Member"
+
+msgid "c_Age_01"
+msgstr "Age"
+
+msgid "c_Period_01"
+msgstr "Period"
+
+msgid "c_Male_01"
+msgstr "Male"
+
+msgid "c_Female_01"
+msgstr "Female"
+
+msgid "c_Male (member)_01"
+msgstr "Male (member)"
+
+msgid "c_Male (non-member)_01"
+msgstr "Male (non-member)"
+
+msgid "c_Female (member)_01"
+msgstr "Female (member)"
+
+msgid "c_Female (non-member)_01"
+msgstr "Female (non-member)"
+
+msgid "c_(Sales ratio)_01"
+msgstr "(Sales ratio)"
+
+msgid "c_Home_01"
+msgstr "Home"
+
+msgid "c_>> Update information was not obtained._01"
+msgstr ">> Update information was not obtained."
+
+msgid "c_You cannot log in._01"
+msgstr "You cannot log in."
+
+msgid "c_Correctly designate the customer ID_01"
+msgstr "Correctly designate the customer ID"
+
+msgid ""
+"c_The maximum number of separate shipping destinations registered has been "
+"met._01"
+msgstr ""
+"The maximum number of separate shipping destinations registered has been met."
+
+msgid "c_There is no separate delivery destination that matches._01"
+msgstr "There is no separate delivery destination that matches."
+
+msgid "c_Not detectable_01"
+msgstr "Not detectable"
+
+msgid "c_The templates character code is T_ARG1. UTF 8 can only be used._01"
+msgstr "The templates character code is T_ARG1. UTF 8 can only be used."
+
+msgid "c_<br />T_ARG1 does not exist_01"
+msgstr "<br />T_ARG1 does not exist"
+
+msgid "c_Template operation failed. T_ARG1_01"
+msgstr "Template operation failed. T_ARG1"
+
+msgid "c_Template operation failed._01"
+msgstr "Template operation failed."
+
+msgid ""
+"c_&gt;&gt; /install/T_ARG1, delete this file after completing installation."
+"_01"
+msgstr ""
+"&gt;&gt; /install/T_ARG1, delete this file after completing installation."
+
+msgid "c_T_ARG1T_ARG2: File exists_01"
+msgstr "T_ARG1T_ARG2: File exists"
+
+msgid "c_T_ARG1T_ARG2: Copy success_01"
+msgstr "T_ARG1T_ARG2: Copy success"
+
+msgid "c_T_ARG1T_ARG2: Copy failure_01"
+msgstr "T_ARG1T_ARG2: Copy failure"
+
+msgid "tpl_Delivery company_01"
+msgstr "Delivery company"
+
+msgid "tpl_Name_01"
+msgstr "Name"
+
+msgid "tpl_Name<span class='attention'> *</span>_01"
+msgstr "Name<span class='attention'> *</span>"
+
+msgid "tpl_Edit_01"
+msgstr "Edit"
+
+msgid "tpl_Remove_01"
+msgstr "Remove"
+
+msgid "tpl_Move_01"
+msgstr "Move"
+
+msgid "tpl_Add delivery method/delivery charge_01"
+msgstr "Add delivery method/delivery charge"
+
+msgid "tpl_Enter delivery method_01"
+msgstr "Enter delivery method"
+
+msgid "tpl_Delivery method registration_01"
+msgstr "Delivery method registration"
+
+msgid "tpl_Delivery company name<span class='attention'> *</span>_01"
+msgstr "Delivery company name<span class='attention'> *</span>"
+
+msgid "tpl_Explanation_01"
+msgstr "Explanation"
+
+msgid "tpl_Voucher No. URL_01"
+msgstr "Voucher No. URL"
+
+msgid "tpl_Delivery time T_ARG1_01"
+msgstr "Delivery time T_ARG1"
+
+msgid "tpl_Available product types_01"
+msgstr "Available product types"
+
+msgid "tpl_Product type_01"
+msgstr "Product type"
+
+msgid "tpl_Product type<span class='attention'> *</span>_01"
+msgstr "Product type<span class='attention'> *</span>"
+
+msgid "tpl_Available payment methods_01"
+msgstr "Available payment methods"
+
+msgid "tpl_Payment method_01"
+msgstr "Payment method"
+
+msgid "tpl_Payment method<span class='attention'> *</span>_01"
+msgstr "Payment method<span class='attention'> *</span>"
+
+msgid "tpl_Delivery charge registration_01"
+msgstr "Delivery charge registration"
+
+msgid "tpl_Calculate_01"
+msgstr "Calculate"
+
+msgid "tpl_Return to previous page_01"
+msgstr "Return to previous page"
+
+msgid "tpl_Save and continue_01"
+msgstr "Save and continue"
+
+msgid "tpl_Title_01"
+msgstr "Title"
+
+msgid "tpl_Title<span class='attention'> *</span>_01"
+msgstr "Title<span class='attention'> *</span>"
+
+msgid "tpl_(T_ARG1 characters max)_01"
+msgstr "(T_ARG1 characters max)"
+
+msgid "tpl_Date_01"
+msgstr "Date"
+
+msgid "tpl_Date<span class='attention'> *</span>_01"
+msgstr "Date<span class='attention'> *</span>"
+
+msgid ""
+"tpl_Compensating holidays are not automatically set. Set the dates for "
+"compensating holidays._01"
+msgstr ""
+"Compensating holidays are not automatically set. Set the dates for "
+"compensating holidays."
+
+msgid "tpl_being edited_01"
+msgstr "being edited"
+
+msgid "tpl_Basic information_01"
+msgstr "Basic information"
+
+msgid "tpl_Company name_01"
+msgstr "Company name"
+
+msgid "tpl_Store name<span class='attention'> *</span>_01"
+msgstr "Store name<span class='attention'> *</span>"
+
+msgid "tpl_Store name (in English)_01"
+msgstr "Store name (in English)"
+
+msgid "tpl_Postal code_01"
+msgstr "Postal code"
+
+msgid "tpl_Location finder_01"
+msgstr "Location finder"
+
+msgid "tpl_SHOP address<span class='attention'> *</span>_01"
+msgstr "SHOP address<span class='attention'> *</span>"
+
+msgid "tpl_Select a prefecture_01"
+msgstr "Select a prefecture"
+
+msgid "tpl_Phone Number_01"
+msgstr "Phone Number"
+
+msgid "tpl_Phone Number<span class='attention'> *</span>_01"
+msgstr "Phone Number<span class='attention'> *</span>"
+
+msgid "tpl_FAX_01"
+msgstr "FAX"
+
+msgid "tpl_Store business hours_01"
+msgstr "Store business hours"
+
+msgid ""
+"tpl_Product order receipt e-mail address<span class='attention'> *</span>_01"
+msgstr "Product order receipt e-mail address<span class='attention'> *</span>"
+
+msgid ""
+"tpl_E-mail address for receiving inquiries<span class='attention'> *</"
+"span>_01"
+msgstr ""
+"E-mail address for receiving inquiries<span class='attention'> *</span>"
+
+msgid "tpl_E-mail address of sender<span class='attention'> *</span>_01"
+msgstr "E-mail address of sender<span class='attention'> *</span>"
+
+msgid ""
+"tpl_E-mail address for receiving sending errors<span class='attention'> *</"
+"span>_01"
+msgstr ""
+"E-mail address for receiving sending errors<span class='attention'> *</span>"
+
+msgid "tpl_Available products_01"
+msgstr "Available products"
+
+msgid "tpl_Message_01"
+msgstr "Message"
+
+msgid "tpl_Regular holiday settings_01"
+msgstr "Regular holiday settings"
+
+msgid "tpl_Regular holiday_01"
+msgstr "Regular holiday"
+
+msgid "tpl_SHOP function_01"
+msgstr "SHOP function"
+
+msgid "tpl_Consumption sales tax rate<span class='attention'> *</span>_01"
+msgstr "Consumption sales tax rate<span class='attention'> *</span>"
+
+msgid "tpl_Taxation rules<span class='attention'> *</span>_01"
+msgstr "Taxation rules<span class='attention'> *</span>"
+
+msgid "tpl_Conditions for free shipping_01"
+msgstr "Conditions for free shipping"
+
+msgid "tpl_Number of days during which download is possible_01"
+msgstr "Number of days during which download is possible"
+
+msgid "tpl_No limit_01"
+msgstr "No limit"
+
+msgid "tpl_Map settings_01"
+msgstr "Map settings"
+
+msgid "tpl_Latitude/longitude information_01"
+msgstr "Latitude/longitude information"
+
+msgid "tpl_Latitude : _01"
+msgstr "Latitude : "
+
+msgid "tpl_Longitude: _01"
+msgstr "Longitude: "
+
+msgid "tpl_Automatic retrieval from location_01"
+msgstr "Automatic retrieval from location"
+
+msgid "tpl_Set using map_01"
+msgstr "Set using map"
+
+msgid "tpl_Enter this position._01"
+msgstr "Enter this position."
+
+msgid "tpl_The address was not found._01"
+msgstr "The address was not found."
+
+msgid "tpl_Agreement title_01"
+msgstr "Agreement title"
+
+msgid "tpl_Agreement title<span class='attention'> *</span>_01"
+msgstr "Agreement title<span class='attention'> *</span>"
+
+msgid "tpl_Agreement contents<span class='attention'> *</span>_01"
+msgstr "Agreement contents<span class='attention'> *</span>"
+
+msgid "tpl_The contents are revised. _01"
+msgstr ""
+"The contents are revised. If you continue, the revised contents will be "
+"cancelled. Do you want to continue?"
+
+msgid "tpl_Template<span class='attention'> *</span>_01"
+msgstr "Template<span class='attention'> *</span>"
+
+msgid "tpl_E-mail title<span class='attention'> *</span>_01"
+msgstr "E-mail title<span class='attention'> *</span>"
+
+msgid "tpl_Header_01"
+msgstr "Header"
+
+msgid "tpl_Please make a selection_01"
+msgstr "Please make a selection"
+
+msgid "tpl_Dynamic data insertion section_01"
+msgstr "Dynamic data insertion section"
+
+msgid "tpl_Footer_01"
+msgstr "Footer"
+
+msgid "tpl_Return_01"
+msgstr "Return"
+
+msgid "tpl_Text count_01"
+msgstr "Text count"
+
+msgid "tpl_Add payment method_01"
+msgstr "Add payment method"
+
+msgid "tpl_ID_01"
+msgstr "ID"
+
+msgid "tpl_Processing fee (&#36;)_01"
+msgstr "Processing fee (&#36;)"
+
+msgid "tpl_Usage conditions_01"
+msgstr "Usage conditions"
+
+msgid "tpl_To top_01"
+msgstr "To top"
+
+msgid "tpl_To bottom_01"
+msgstr "To bottom"
+
+msgid "tpl_Payment method registration/editing_01"
+msgstr "Payment method registration/editing"
+
+msgid "tpl_Processing fee_01"
+msgstr "Processing fee"
+
+msgid "tpl_Processing fee<span class='attention'> *</span>_01"
+msgstr "Processing fee<span class='attention'> *</span>"
+
+msgid "tpl_Cannot be set_01"
+msgstr "Cannot be set"
+
+msgid "tpl_Usage conditions (&#36;)_01"
+msgstr "Usage conditions (&#36;)"
+
+msgid "tpl_Logo image_01"
+msgstr "Logo image"
+
+msgid "tpl_[Cancel image]_01"
+msgstr "[Cancel image]"
+
+msgid "tpl_Upload_01"
+msgstr "Upload"
+
+msgid ""
+"tpl_Point grant rate (initial value)<span class='attention'> *</span>_01"
+msgstr "Point grant rate (initial value)<span class='attention'> *</span>"
+
+msgid "tpl_Rounded down to nearest decimal_01"
+msgstr "Rounded down to nearest decimal"
+
+msgid ""
+"tpl_Points granted during member registration<span class='attention'> *</"
+"span>_01"
+msgstr ""
+"Points granted during member registration<span class='attention'> *</span>"
+
+msgid "tpl_Meta tag: Author_01"
+msgstr "Meta tag: Author"
+
+msgid "tpl_Meta tag: Description_01"
+msgstr "Meta tag: Description"
+
+msgid "tpl_Meta tag: Keywords_01"
+msgstr "Meta tag: Keywords"
+
+msgid "tpl_There is no data to be displayed_01"
+msgstr "There is no data to be displayed"
+
+msgid "tpl_'Save changes?'_01"
+msgstr "'Save changes?'"
+
+msgid "tpl_SHOP master_01"
+msgstr "SHOP master"
+
+msgid "tpl_Transaction rules_01"
+msgstr "Transaction rules"
+
+msgid "tpl_Delivery method settings_01"
+msgstr "Delivery method settings"
+
+msgid "tpl_Payment method settings_01"
+msgstr "Payment method settings"
+
+msgid "tpl_Point settings_01"
+msgstr "Point settings"
+
+msgid "tpl_E-mail settings_01"
+msgstr "E-mail settings"
+
+msgid "tpl_SEO management_01"
+msgstr "SEO management"
+
+msgid "tpl_Membership terms_01"
+msgstr "Membership terms"
+
+msgid "tpl_Postal code registration_01"
+msgstr "Postal code registration"
+
+msgid "tpl_Holiday management_01"
+msgstr "Holiday management"
+
+msgid "tpl_Distributor<span class='attention'> *</span>_01"
+msgstr "Distributor<span class='attention'> *</span>"
+
+msgid "tpl_Operation director<span class='attention'> *</span>_01"
+msgstr "Operation director<span class='attention'> *</span>"
+
+msgid "tpl_Postal code mark_01"
+msgstr " "
+
+msgid "tpl_Location<span class='attention'> *</span>_01"
+msgstr "Location<span class='attention'> *</span>"
+
+msgid "tpl_E-mail address_01"
+msgstr "E-mail address"
+
+msgid "tpl_E-mail address<span class='attention'> *</span>_01"
+msgstr "E-mail address<span class='attention'> *</span>"
+
+msgid "tpl_URL_01"
+msgstr "URL"
+
+msgid "tpl_URL<span class='attention'> *</span>_01"
+msgstr "URL<span class='attention'> *</span>"
+
+msgid "tpl_Link_01"
+msgstr "Link"
+
+msgid "tpl_Create text_01"
+msgstr "Create text"
+
+msgid "tpl_Open in separate window_01"
+msgstr "Open in separate window"
+
+msgid "tpl_(3000 characters max)_01"
+msgstr "(3000 characters max)"
+
+msgid "tpl_List of new information_01"
+msgstr "List of new information"
+
+msgid "tpl_Ranking_01"
+msgstr "Ranking"
+
+msgid ""
+"tpl_Necessary fees other than for the product cost<span class='attention'> "
+"*</span>_01"
+msgstr ""
+"Necessary fees other than for the product cost<span class='attention'> *</"
+"span>"
+
+msgid "tpl_Order method<span class='attention'> *</span>_01"
+msgstr "Order method<span class='attention'> *</span>"
+
+msgid "tpl_Payment deadline<span class='attention'> *</span>_01"
+msgstr "Payment deadline<span class='attention'> *</span>"
+
+msgid "tpl_Delivery period<span class='attention'> *</span>_01"
+msgstr "Delivery period<span class='attention'> *</span>"
+
+msgid "tpl_Returns and exchanges<span class='attention'> *</span>_01"
+msgstr "Returns and exchanges<span class='attention'> *</span>"
+
+msgid "tpl_Date and time of saved postal code CSV update: T_ARG1_01"
+msgstr "Date and time of saved postal code CSV update: T_ARG1"
+
+msgid "tpl_Postal code There are T_ARG1 lines of data in the CSV._01"
+msgstr "Postal code There are T_ARG1 lines of data in the CSV."
+
+msgid "tpl_Postal code There are T_ARG1 lines of data in the DB._01"
+msgstr "Postal code There are T_ARG1 lines of data in the DB."
+
+msgid "tpl_Please carry out registration._01"
+msgstr "Please carry out registration."
+
+msgid ""
+"tpl_There is a difference in the number of lines. There may be an "
+"abnormality in registration._01"
+msgstr ""
+"There is a difference in the number of lines. There may be an abnormality in "
+"registration."
+
+msgid "tpl_Under normal conditions_01"
+msgstr ""
+"Under normal conditions, please use [Automatic registration].<br />However, "
+"in the case that the system times out, please use [Manual Registration]until "
+"the registration process completes normally."
+
+msgid "tpl_Automatic registration_01"
+msgstr "Automatic registration"
+
+msgid ""
+"tpl_[Delete] [Postal code CSV update] and [DB manual registration] below "
+"will be carried out in order._01"
+msgstr ""
+"[Delete] [Postal code CSV update] and [DB manual registration] below will be "
+"carried out in order. If a time out occurs,  the DB will be restored to its "
+"original state."
+
+msgid ""
+"tpl_[Delete] and [DB manual registration] below will be carried out in "
+"order. _01"
+msgstr ""
+"[Delete] and [DB manual registration] below will be carried out in order. If "
+"a time out occurs,  the DB will be restored to its original state."
+
+msgid "tpl_DB manual registration_01"
+msgstr "DB manual registration"
+
+msgid ""
+"tpl_Postal codes will be registered starting with the designated line number."
+"_01"
+msgstr ""
+"Postal codes will be registered starting with the designated line number.  "
+"If a time out occurs, the DB will be restored to its original state."
+
+msgid "tpl_Manual registration_01"
+msgstr "Manual registration"
+
+msgid "tpl_Start line_01"
+msgstr "Start line"
+
+msgid "tpl_Postal code CSV update_01"
+msgstr "Postal code CSV update"
+
+msgid "tpl_Cannot be used._01"
+msgstr "Cannot be used."
+
+msgid "tpl_* The parameter ZIP_DOWNLOAD_URL is not set._01"
+msgstr "* The parameter ZIP_DOWNLOAD_URL is not set."
+
+msgid "tpl_* PHP extension module 'zip' is invalid._01"
+msgstr "* PHP extension module 'zip' is invalid."
+
+msgid "tpl_A postal code CSV will be obtained from the Japan Post Web site._01"
+msgstr "A postal code CSV will be obtained from the Japan Post Web site."
+
+msgid "tpl_Update_01"
+msgstr "Update"
+
+msgid "tpl_All postal codes will be deleted. _01"
+msgstr ""
+"All postal codes will be deleted. Automatic address will not function until "
+"postal codes are re-registered."
+
+msgid "tpl_Items not for CSV output_01"
+msgstr "Items not for CSV output"
+
+msgid "tpl_Items for CSV output_01"
+msgstr "Items for CSV output"
+
+msgid "tpl_Top_01"
+msgstr "Top"
+
+msgid "tpl_Bottom_01"
+msgstr "Bottom"
+
+msgid "tpl_Up_01"
+msgstr "Up"
+
+msgid "tpl_Down_01"
+msgstr "Down"
+
+msgid "tpl_Item order_01"
+msgstr "Item order"
+
+msgid "tpl_Do you want to register using default settings_01"
+msgstr "Do you want to register using default settings"
+
+msgid "tpl_* Update successful._01"
+msgstr "* Update successful."
+
+msgid "tpl_Return to initial settings and register_01"
+msgstr "Return to initial settings and register"
+
+msgid "tpl_SQL list_01"
+msgstr "SQL list"
+
+msgid "tpl_CSV output _01"
+msgstr "CSV output "
+
+msgid "tpl_Newly input SQL_01"
+msgstr "Newly input SQL"
+
+msgid ""
+"tpl_SQL text<span class='attention'> *</span><br /> (Do not use the word "
+"'SELECT' .)_01"
+msgstr ""
+"SQL text<span class='attention'> *</span><br /> (Do not use the word "
+"'SELECT' .)"
+
+msgid "tpl_Confirm syntax error_01"
+msgstr "Confirm syntax error"
+
+msgid "tpl_Table list_01"
+msgstr "Table list"
+
+msgid "tpl_Item list_01"
+msgstr "Item list"
+
+msgid "tpl_Error contents_01"
+msgstr "Error contents"
+
+msgid "tpl_There are no errors_01"
+msgstr "There are no errors"
+
+msgid "tpl_File upload_01"
+msgstr "File upload"
+
+msgid "tpl_Folder creation_01"
+msgstr "Folder creation"
+
+msgid "tpl_Create_01"
+msgstr "Create"
+
+msgid "tpl_File name_01"
+msgstr "File name"
+
+msgid "tpl_Size_01"
+msgstr "Size"
+
+msgid "tpl_Date of update_01"
+msgstr "Date of update"
+
+msgid "tpl_Display_01"
+msgstr "Display"
+
+msgid "tpl_Download_01"
+msgstr "Download"
+
+msgid "tpl_Do you want to edit with these contents?_01"
+msgstr "Do you want to edit with these contents?"
+
+msgid "tpl_Register and continue?_01"
+msgstr "Register and continue?"
+
+msgid "tpl_Do you want to delete this new information?_01"
+msgstr "Do you want to delete this new information?"
+
+msgid "tpl_Enter a single move ranking._01"
+msgstr "Enter a single move ranking."
+
+msgid "tpl_Enter a move ranking._01"
+msgstr "Enter a move ranking."
+
+msgid "tpl_Enter a move ranking that is 4 digits or less._01"
+msgstr "Enter a move ranking that is 4 digits or less."
+
+msgid "tpl_Enter a number for the move ranking._01"
+msgstr "Enter a number for the move ranking."
+
+msgid "tpl_The number to be moved is a duplicate._01"
+msgstr "The number to be moved is a duplicate."
+
+msgid "tpl_Enter 0 or greater for the move ranking_01"
+msgstr "Enter 0 or greater for the move ranking"
+
+msgid ""
+"tpl_The order that was entered exceeds the maximum valued for the number "
+"registered._01"
+msgstr ""
+"The order that was entered exceeds the maximum valued for the number "
+"registered."
+
+msgid "tpl_Currently, there is no data._01"
+msgstr "Currently, there is no data."
+
+msgid "tpl_Enter a comment._01"
+msgstr "Enter a comment."
+
+msgid "tpl_The selected field T_ARG1 will be discarded. Continue? _01"
+msgstr "The selected field T_ARG1 will be discarded. Continue? "
+
+msgid "tpl_Product/comment_01"
+msgstr "Product/comment"
+
+msgid "tpl_Product name_01"
+msgstr "Product name"
+
+msgid "tpl_Product name<span class='attention'> *</span>_01"
+msgstr "Product name<span class='attention'> *</span>"
+
+msgid "tpl_Select a product_01"
+msgstr "Select a product"
+
+msgid "tpl_Deletion will be carried out. Is this okay?_01"
+msgstr "Deletion will be carried out. Is this okay?"
+
+msgid "tpl_Category_01"
+msgstr "Category"
+
+msgid "tpl_Product code_01"
+msgstr "Product code"
+
+msgid "tpl_Product code<span class='attention'> *</span>_01"
+msgstr "Product code<span class='attention'> *</span>"
+
+msgid "tpl_Search_01"
+msgstr "Search"
+
+msgid "tpl_T_ARG1 items were found._01"
+msgstr "T_ARG1 items were found."
+
+msgid "tpl_Product image_01"
+msgstr "Product image"
+
+msgid "tpl_Confirm_01"
+msgstr "Confirm"
+
+msgid "tpl_There is no product registered_01"
+msgstr "There is no product registered"
+
+msgid "tpl_Manage new information_01"
+msgstr "Manage new information"
+
+msgid "tpl_Recommended product management_01"
+msgstr "Recommended product management"
+
+msgid "tpl_File management_01"
+msgstr "File management"
+
+msgid "tpl_CSV output item settings_01"
+msgstr "CSV output item settings"
+
+msgid "tpl_Products_01"
+msgstr "Products"
+
+msgid "tpl_Members_01"
+msgstr "Members"
+
+msgid "tpl_Orders_01"
+msgstr "Orders"
+
+msgid "tpl_Review_01"
+msgstr "Review"
+
+msgid "tpl_Advanced settings_01"
+msgstr "Advanced settings"
+
+msgid "tpl_Member ID_01"
+msgstr "Member ID"
+
+msgid "tpl_Member ID<span class='attention'> *</span>_01"
+msgstr "Member ID<span class='attention'> *</span>"
+
+msgid "tpl_Name_02"
+msgstr "Name"
+
+msgid "tpl_Name<span class='attention'> *</span>_02"
+msgstr "Name<span class='attention'> *</span>"
+
+msgid "tpl_Member status_01"
+msgstr "Member status"
+
+msgid "tpl_Member status<span class='attention'> *</span>_01"
+msgstr "Member status<span class='attention'> *</span>"
+
+msgid "tpl_Address input_01"
+msgstr "Address input"
+
+msgid "tpl_Address_01"
+msgstr "Address"
+
+msgid "tpl_Address<span class='attention'> *</span>_01"
+msgstr "Address<span class='attention'> *</span>"
+
+msgid "tpl_Mobile e-mail address_01"
+msgstr "Mobile e-mail address"
+
+msgid "tpl_Telephone number_01"
+msgstr "Telephone number"
+
+msgid "tpl_Telephone number<span class='attention'> *</span>_01"
+msgstr "Telephone number<span class='attention'> *</span>"
+
+msgid "tpl_Gender_01"
+msgstr "Gender"
+
+msgid "tpl_Gender<span class='attention'> *</span>_01"
+msgstr "Gender<span class='attention'> *</span>"
+
+msgid "tpl_Occupation_01"
+msgstr "Occupation"
+
+msgid "tpl_Date of birth_01"
+msgstr "Date of birth"
+
+msgid "tpl_Password_01"
+msgstr "Password"
+
+msgid "tpl_Password<span class='attention'> *</span>_01"
+msgstr "Password<span class='attention'> *</span>"
+
+msgid ""
+"tpl_Lower-case alphanumeric characters T_ARG1 to T_ARG2 (Symbols cannot be "
+"used)_01"
+msgstr ""
+"Lower-case alphanumeric characters T_ARG1 to T_ARG2 (Symbols cannot be used)"
+
+msgid "tpl_Enter twice for confirmation_01"
+msgstr "Enter twice for confirmation"
+
+msgid ""
+"tpl_Hint for when you have forgotten your password<span class='attention'> "
+"*</span>_01"
+msgstr ""
+"Hint for when you have forgotten your password<span class='attention'> *</"
+"span>"
+
+msgid "tpl_Question:_01"
+msgstr "Question:"
+
+msgid "tpl_Answer:_01"
+msgstr "Answer:"
+
+msgid "tpl_Mail magazine_01"
+msgstr "Mail magazine"
+
+msgid "tpl_Mail magazine<span class='attention'> *</span>_01"
+msgstr "Mail magazine<span class='attention'> *</span>"
+
+msgid "tpl_Memo for SHOP_01"
+msgstr "Memo for SHOP"
+
+msgid "tpl_Points in possession_01"
+msgstr "Points in possession"
+
+msgid "tpl_Points in possession<span class='attention'> *</span>_01"
+msgstr "Points in possession<span class='attention'> *</span>"
+
+msgid "tpl_Return to search screen_01"
+msgstr "Return to search screen"
+
+msgid "tpl_Confirmation page_01"
+msgstr "Confirmation page"
+
+msgid "tpl_Purchase history list_01"
+msgstr "Purchase history list"
+
+msgid "tpl_<span class='attention'>T_ARG1 items</span>&nbsp; were found._01"
+msgstr "<span class='attention'>T_ARG1 items</span>&nbsp; were found."
+
+msgid "tpl_Order number_01"
+msgstr "Order number"
+
+msgid "tpl_Purchase amount_01"
+msgstr "Purchase amount"
+
+msgid "tpl_Shipment date_01"
+msgstr "Shipment date"
+
+msgid "tpl_Not shipped_01"
+msgstr "Not shipped"
+
+msgid "tpl_There is no purchase history_01"
+msgstr "There is no purchase history"
+
+msgid "tpl_Registration is complete._01"
+msgstr "Registration is complete."
+
+msgid "tpl_Register new item_01"
+msgstr "Register new item"
+
+msgid "tpl_Temporary member_01"
+msgstr "Temporary member"
+
+msgid "tpl_full member_01"
+msgstr "full member"
+
+msgid "tpl_T_ARG1 T_ARG2_01"
+msgstr "T_ARG1 T_ARG2"
+
+msgid "tpl_Not registered_01"
+msgstr "Not registered"
+
+msgid "tpl_Hint for when you have forgotten your password_01"
+msgstr "Hint for when you have forgotten your password"
+
+msgid "tpl_HTML_01"
+msgstr "HTML"
+
+msgid "tpl_Text_01"
+msgstr "Text"
+
+msgid "tpl_Do not wish to receive"
+msgstr "Do not wish to receive"
+
+msgid "tpl_Return to the edit screen_01"
+msgstr "Return to the edit screen"
+
+msgid "tpl_Do you want to delete member information?_01"
+msgstr "Do you want to delete member information?"
+
+msgid "tpl_Do you wish to receive a temporary registration e-mail again?_01"
+msgstr "Do you wish to receive a temporary registration e-mail again?"
+
+msgid "tpl_Search condition settings_01"
+msgstr "Search condition settings"
+
+msgid "tpl_Results displayed_01"
+msgstr "Results displayed"
+
+msgid "tpl_Search using above criteria_01"
+msgstr "Search using above criteria"
+
+msgid "tpl_List of search results_01"
+msgstr "List of search results"
+
+msgid "tpl_CSV download_01"
+msgstr "CSV download"
+
+msgid "tpl_CSV output settings_01"
+msgstr "CSV output settings"
+
+msgid "tpl_Type_01"
+msgstr "Type"
+
+msgid "tpl_Prefecture_01"
+msgstr "Prefecture"
+
+msgid "tpl_Resending temporary registration e-mail_01"
+msgstr "Resending temporary registration e-mail"
+
+msgid "tpl_temporary _01"
+msgstr "temporary "
+
+msgid "tpl_full _01"
+msgstr "full "
+
+msgid "tpl_There is no member information."
+msgstr "There is no member information."
+
+msgid "tpl_Member master_01"
+msgstr "Member master"
+
+msgid "tpl_Member registration_01"
+msgstr "Member registration"
+
+msgid "tpl_Block name_01"
+msgstr "Block name"
+
+msgid "tpl_Enlarge the image_01"
+msgstr "Enlarge the image"
+
+msgid "tpl_Register_01"
+msgstr "Register"
+
+msgid "tpl_Block that can be edited_01"
+msgstr "Block that can be edited"
+
+msgid "tpl_New block_01"
+msgstr "New block"
+
+msgid "tpl_CSS file name_01"
+msgstr "CSS file name"
+
+msgid "tpl_CSS contents_01"
+msgstr "CSS contents"
+
+msgid "tpl_CSS file that can be edited_01"
+msgstr "CSS file that can be edited"
+
+msgid "tpl_New CSS_01"
+msgstr "New CSS"
+
+msgid "tpl_The CSS file does not exist._01"
+msgstr "The CSS file does not exist."
+
+msgid "tpl_Editing of header_01"
+msgstr "Editing of header"
+
+msgid "tpl_Editing of footer_01"
+msgstr "Editing of footer"
+
+msgid "tpl_All pages_01"
+msgstr "All pages"
+
+msgid "tpl_Header section_01"
+msgstr "Header section"
+
+msgid "tpl_Main_01"
+msgstr "Main"
+
+msgid "tpl_Footer section_01"
+msgstr "Footer section"
+
+msgid "tpl_Unused blocks_01"
+msgstr "Unused blocks"
+
+msgid "tpl_Preview_01"
+msgstr "Preview"
+
+msgid "tpl_List of pages that can be edited_01"
+msgstr "List of pages that can be edited"
+
+msgid "tpl_Layout_01"
+msgstr "Layout"
+
+msgid "tpl_New input of page_01"
+msgstr "New input of page"
+
+msgid "tpl_Page details_01"
+msgstr "Page details"
+
+msgid "tpl_Use a common header_01"
+msgstr "Use a common header"
+
+msgid "tpl_Use a common footer_01"
+msgstr "Use a common footer"
+
+msgid "tpl_Layout settings_01"
+msgstr "Layout settings"
+
+msgid "tpl_Page detail settings_01"
+msgstr "Page detail settings"
+
+msgid "tpl_Block settings_01"
+msgstr "Block settings"
+
+msgid "tpl_Header/footer settings_01"
+msgstr "Header/footer settings"
+
+msgid "tpl_CSS settings_01"
+msgstr "CSS settings"
+
+msgid "tpl_Template settings_01"
+msgstr "Template settings"
+
+msgid "tpl_PC_01"
+msgstr "PC"
+
+msgid "tpl_Mobile_01"
+msgstr "Mobile"
+
+msgid "tpl_Smartphone_01"
+msgstr "Smartphone"
+
+msgid ""
+"tpl_Select a template and click the 'Save and Continue' button to,<br /"
+">change the designtemplate._01"
+msgstr ""
+"Select a template and click the 'Save and Continue' button to,<br />change "
+"the designtemplate."
+
+msgid "tpl_Selection_01"
+msgstr "Selection"
+
+msgid "tpl_Name_03"
+msgstr "Name"
+
+msgid "tpl_Saving destination_01"
+msgstr "Saving destination"
+
+msgid "tpl_The template will be changed._01"
+msgstr "The template will be changed."
+
+msgid "tpl_The template package will be uploaded._01"
+msgstr ""
+"The template package will be uploaded.<br />The package that you want to "
+"upload will be able to be selected from 'Template settings'."
+
+msgid "tpl_Template code_01"
+msgstr "Template code"
+
+msgid "tpl_Template name_01"
+msgstr "Template name"
+
+msgid "tpl_Template file_01"
+msgstr "Template file"
+
+msgid "tpl_*  .tar/.tar.gz only_01"
+msgstr "*  .tar/.tar.gz only"
+
+msgid "tpl_Delivery start time_01"
+msgstr "Delivery start time"
+
+msgid "tpl_Delivery completion time_01"
+msgstr "Delivery completion time"
+
+msgid "tpl_Subject_01"
+msgstr "Subject"
+
+msgid "tpl_Subject<span class='attention'> *</span>_01"
+msgstr "Subject<span class='attention'> *</span>"
+
+msgid "tpl_Delivery conditions_01"
+msgstr "Delivery conditions"
+
+msgid "tpl_Total number delivered_01"
+msgstr "Total number delivered"
+
+msgid "tpl_Number already delivered_01"
+msgstr "Number already delivered"
+
+msgid "tpl_Number of failed deliveries_01"
+msgstr "Number of failed deliveries"
+
+msgid "tpl_Number not delivered_01"
+msgstr "Number not delivered"
+
+msgid "tpl_Retry_01"
+msgstr "Retry"
+
+msgid "tpl_Confirm_02"
+msgstr "Confirm"
+
+msgid "tpl_Try to send to failed address again?_01"
+msgstr "Try to send to failed address again?"
+
+msgid "tpl_Execute_01"
+msgstr "Execute"
+
+msgid "tpl_Do you want to delete the delivery history?_01"
+msgstr "Do you want to delete the delivery history?"
+
+msgid "tpl_There is no delivery history_01"
+msgstr "There is no delivery history"
+
+msgid "tpl_Return_02"
+msgstr "Return"
+
+msgid "tpl_Delivery search conditions_01"
+msgstr "Delivery search conditions"
+
+msgid "tpl_Delivery format_01"
+msgstr "Delivery format"
+
+msgid "tpl_Type of delivery e-mail address_01"
+msgstr "Type of delivery e-mail address"
+
+msgid "tpl_Delete all search results_01"
+msgstr "Delete all search results"
+
+msgid "tpl_Set delivery contents_01"
+msgstr "Set delivery contents"
+
+msgid "tpl_Desired delivery_01"
+msgstr "Desired delivery"
+
+msgid "tpl_Registration/update date_01"
+msgstr "Registration/update date"
+
+msgid "tpl_Template selection<span class='attention'> *</span>_01"
+msgstr "Template selection<span class='attention'> *</span>"
+
+msgid "tpl_Text_02"
+msgstr "Text"
+
+msgid ""
+"tpl_Text<span class='attention'> *</span><br /> (When inserting a name, use "
+"{name})_01"
+msgstr ""
+"Text<span class='attention'> *</span><br /> (When inserting a name, use "
+"{name})"
+
+msgid "tpl_Check with HTML_01"
+msgstr "Check with HTML"
+
+msgid "tpl_Return to Template settings screen_01"
+msgstr "Return to Template settings screen"
+
+msgid "tpl_Send_01"
+msgstr "Send"
+
+msgid "tpl_(Not designated)_01"
+msgstr "(Not designated)"
+
+msgid "tpl_Birth month_01"
+msgstr "Birth month"
+
+msgid "tpl_Birthday_01"
+msgstr "Birthday"
+
+msgid "tpl_Occupation_02"
+msgstr "Occupation"
+
+msgid "tpl_Purchase frequency_01"
+msgstr "Purchase frequency"
+
+msgid "tpl_Final purchase date_01"
+msgstr "Final purchase date"
+
+msgid "tpl_Purchased product name_01"
+msgstr "Purchased product name"
+
+msgid "tpl_Purchased product code_01"
+msgstr "Purchased product code"
+
+msgid "tpl_(Categories already deleted)_01"
+msgstr "(Categories already deleted)"
+
+msgid "tpl_Close the window._01"
+msgstr "Close the window."
+
+msgid "tpl_Delivery content settings_01"
+msgstr "Delivery content settings"
+
+msgid "tpl_Delivery history_01"
+msgstr "Delivery history"
+
+msgid "tpl_Add template_01"
+msgstr "Add template"
+
+msgid "tpl_Creation date_01"
+msgstr "Creation date"
+
+msgid "tpl_E-mail format_01"
+msgstr "E-mail format"
+
+msgid "tpl_E-mail format<span class='attention'> *</span>_01"
+msgstr "E-mail format<span class='attention'> *</span>"
+
+msgid "tpl_Return to the template list_01"
+msgstr "Return to the template list"
+
+msgid "tpl_Template addition_01"
+msgstr "Template addition"
+
+msgid "tpl_Rearrangement_01"
+msgstr "Rearrangement"
+
+msgid "tpl_Recommended products_01"
+msgstr "Recommended products"
+
+msgid "tpl_Character count_01"
+msgstr "Character count"
+
+msgid "tpl_Date of order receipt_01"
+msgstr "Date of order receipt"
+
+msgid "tpl_Response status_01"
+msgstr "Response status"
+
+msgid "tpl_Date of deposit_01"
+msgstr "Date of deposit"
+
+msgid "tpl_Orderer information_01"
+msgstr "Orderer information"
+
+msgid "tpl_(Non-member)_01"
+msgstr "(Non-member)"
+
+msgid "tpl_Remarks_01"
+msgstr "Remarks"
+
+msgid "tpl_Current points_01"
+msgstr "Current points"
+
+msgid "tpl_Terminal type_01"
+msgstr "Terminal type"
+
+msgid "tpl_Order receipt product information_01"
+msgstr "Order receipt product information"
+
+msgid "tpl_Confirm calculation_01"
+msgstr "Confirm calculation"
+
+msgid "tpl_* No product is selected._01"
+msgstr "* No product is selected."
+
+msgid "tpl_Standard 1_01"
+msgstr "Standard 1"
+
+msgid "tpl_Unit price_01"
+msgstr "Unit price"
+
+msgid "tpl_Quantity_01"
+msgstr "Quantity"
+
+msgid "tpl_Standard 2_01"
+msgstr "Standard 2"
+
+msgid "tpl_Price including tax_01"
+msgstr "Price including tax"
+
+msgid "tpl_Subtotal_01"
+msgstr "Subtotal"
+
+msgid "tpl_Discount_01"
+msgstr "Discount"
+
+msgid "tpl_Shipping fee_01"
+msgstr "Shipping fee"
+
+msgid "tpl_Total_01"
+msgstr "Total"
+
+msgid "tpl_Payment total_01"
+msgstr "Payment total"
+
+msgid "tpl_Points used_01"
+msgstr "Points used"
+
+msgid "tpl_Birthday points_001"
+msgstr "Birthday points"
+
+msgid "tpl_Points added_01"
+msgstr "Points added"
+
+msgid "tpl_Delivery destination information_01"
+msgstr "Delivery destination information"
+
+msgid "tpl_Delivery destination_01"
+msgstr "Delivery destination"
+
+msgid "tpl_Delivery time_01"
+msgstr "Delivery time"
+
+msgid "tpl_Delivery date_01"
+msgstr "Delivery date"
+
+msgid "tpl_No designation_01"
+msgstr "No designation"
+
+msgid "tpl_T_ARG1 information_01"
+msgstr "T_ARG1 information"
+
+msgid "tpl_Memo_01"
+msgstr "Memo"
+
+msgid "tpl_Close_01"
+msgstr "Close"
+
+msgid "tpl_Deliver to customers_01"
+msgstr "Deliver to customers"
+
+msgid "tpl_Add new delivery destination_01"
+msgstr "Add new delivery destination"
+
+msgid "tpl_ Multiple delivery destinations_01"
+msgstr " Multiple delivery destinations"
+
+msgid "tpl_* When T_ARG1 is selected, restore the inventory count manually._01"
+msgstr "* When T_ARG1 is selected, restore the inventory count manually."
+
+msgid "tpl_Ledger output_01"
+msgstr "Ledger output"
+
+msgid "tpl_A checkbox has not been selected_01"
+msgstr "A checkbox has not been selected"
+
+msgid "tpl_Purchased product_01"
+msgstr "Purchased product"
+
+msgid "tpl_PDF batch output_01"
+msgstr "PDF batch output"
+
+msgid "tpl_Batch e-mail notification_01"
+msgstr "Batch e-mail notification"
+
+msgid "tpl_Purchase amount (&#36;)_01"
+msgstr "Purchase amount (&#36;)"
+
+msgid "tpl_All product delivery dates_01"
+msgstr "All product delivery dates"
+
+msgid "tpl_Ledger_01"
+msgstr "Ledger"
+
+msgid "tpl_Batch outpu_01"
+msgstr "Batch output"
+
+msgid "tpl_Individual output_01"
+msgstr "Individual output"
+
+msgid "tpl_Batch notification_01"
+msgstr "Batch notification"
+
+msgid "tpl_Individual notification_01"
+msgstr "Individual notification"
+
+msgid "tpl_E-mail delivery_01"
+msgstr "E-mail delivery"
+
+msgid "tpl_Processing date_01"
+msgstr "Processing date"
+
+msgid "tpl_Notification e-mail_01"
+msgstr "Notification e-mail"
+
+msgid "tpl_Item name_01"
+msgstr "Item name"
+
+msgid "tpl_Check the sending details_01"
+msgstr "Check the sending details"
+
+msgid ""
+"tpl_* This is an example of a single e-mail. The order information differs "
+"for each e-mail_01"
+msgstr ""
+"* This is an example of a single e-mail. The order information differs for "
+"each e-mail"
+
+msgid "tpl_E-mail sending_01"
+msgstr "E-mail sending"
+
+msgid "tpl_Ledger creation_01"
+msgstr "Ledger creation"
+
+msgid "tpl_Issuance date<span class='attention'> *</span>_01"
+msgstr "Issuance date<span class='attention'> *</span>"
+
+msgid "tpl_Ledger type_01"
+msgstr "Ledger type"
+
+msgid "tpl_Download method_01"
+msgstr "Download method"
+
+msgid "tpl_Ledger title_01"
+msgstr "Ledger title"
+
+msgid "tpl_* The default title is displayed when field is blank._01"
+msgstr "* The default title is displayed when field is blank."
+
+msgid "tpl_Ledger message_01"
+msgstr "Ledger message"
+
+msgid "tpl_1st line:_01"
+msgstr "1st line:"
+
+msgid "tpl_2nd line:_01"
+msgstr "2nd line:"
+
+msgid "tpl_3rd line:_01"
+msgstr "3rd line:"
+
+msgid "tpl_* The default message is displayed when fields are blank. _01"
+msgstr "* The default message is displayed when fields are blank. "
+
+msgid "tpl_* Not displayed when fields are blank._01"
+msgstr "* Not displayed when fields are blank."
+
+msgid "tpl_Point notation_01"
+msgstr "Point notation"
+
+msgid "tpl_Yes_01"
+msgstr "Yes"
+
+msgid "tpl_No_01"
+msgstr "No"
+
+msgid ""
+"tpl_* Even if 'Yes' is selected, it is not displayed unless the customer is "
+"a member._01"
+msgstr ""
+"* Even if 'Yes' is selected, it is not displayed unless the customer is a "
+"member."
+
+msgid "tpl_Create using these contents_01"
+msgstr "Create using these contents"
+
+msgid "tpl_ Enter T_ARG1._01"
+msgstr "* Enter T_ARG1."
+
+msgid "tpl_No applicable data exists._01"
+msgstr "No applicable data exists."
+
+msgid "tpl_A selection box has not been selected_01"
+msgstr "A selection box has not been selected"
+
+msgid "tpl_Extraction conditions_01"
+msgstr "Extraction conditions"
+
+msgid "tpl_Response status change_01"
+msgstr "Response status change"
+
+msgid ""
+"tpl_* When T_ARG1 or when changing to delete, restore the inventory count "
+"manually._01"
+msgstr ""
+"* When T_ARG1 or when changing to delete, restore the inventory count "
+"manually."
+
+msgid "tpl_Purchase amount(&#36;)_01"
+msgstr "Purchase amount(&#36;)"
+
+msgid "tpl_Not deposited_01"
+msgstr "Not deposited"
+
+msgid "tpl_Order receipt registration_01"
+msgstr "Order receipt registration"
+
+msgid "tpl_Response status_02"
+msgstr "Response status"
+
+msgid "tpl_Module name_01"
+msgstr "Module name"
+
+msgid "tpl_Status_01"
+msgstr "Status"
+
+msgid "tpl_Date_02"
+msgstr "Date"
+
+msgid "tpl_Details_01"
+msgstr "Details"
+
+msgid "tpl_Failure_01"
+msgstr "Failure"
+
+msgid "tpl_Success_01"
+msgstr "Success"
+
+msgid "tpl_Backup path_01"
+msgstr "Backup path"
+
+msgid "tpl_Return to list_01"
+msgstr "Return to list"
+
+msgid "tpl_Read_01"
+msgstr "Read"
+
+msgid "tpl_Pass_01"
+msgstr "Pass"
+
+msgid "tpl_Contents_01"
+msgstr "Contents"
+
+msgid "tpl_Retrieve the module list_01"
+msgstr "Retrieve the module list"
+
+msgid "tpl_Do you want to void the plug-in?_01"
+msgstr "Do you want to void the plug-in?"
+
+msgid "tpl_Do you want to activate the plug-in?_01"
+msgstr "Do you want to activate the plug-in?"
+
+msgid "tpl_An error occurred during transmission._01"
+msgstr "An error occurred during transmission."
+
+msgid "tpl_Do you want to install the plug-in?_01"
+msgstr "Do you want to install the plug-in?"
+
+msgid ""
+"tpl_Data that has been erased cannot be restored.Do you want to delete the "
+"plug-in?_01"
+msgstr ""
+"Data that has been erased cannot be restored. \n"
+"Do you want to delete the plug-in?"
+
+msgid "tpl_Do you want to update the plug-in?_01"
+msgstr "Do you want to update the plug-in?"
+
+msgid "tpl_Plug-in registration_01"
+msgstr "Plug-in registration"
+
+msgid "tpl_Plug-in<span class='attention'> *</span>_01"
+msgstr "Plug-in<span class='attention'> *</span>"
+
+msgid "tpl_Install_01"
+msgstr "Install"
+
+msgid "tpl_Plug-in list_01"
+msgstr "Plug-in list"
+
+msgid "tpl_Explanation of functions_01"
+msgstr "Explanation of functions"
+
+msgid "tpl_Priority_01"
+msgstr "Priority"
+
+msgid "tpl_Compatible EC-CUBE version :_01"
+msgstr "Compatible EC-CUBE version :"
+
+msgid "tpl_Plug-in settings_01"
+msgstr "Plug-in settings"
+
+msgid "tpl_Update_02"
+msgstr "Update"
+
+msgid "tpl_Enabled_01"
+msgstr "Enabled"
+
+msgid "tpl_Enable_01"
+msgstr "Enable"
+
+msgid "tpl_Change_01"
+msgstr "Change"
+
+msgid "tpl_There are no plug-ins registered._01"
+msgstr "There are no plug-ins registered."
+
+msgid "tpl_Logo_01"
+msgstr "Logo"
+
+msgid "tpl_Introduction version_01"
+msgstr "Introduction version"
+
+msgid "tpl_Installation_01"
+msgstr "Installation"
+
+msgid "tpl_Settings_01"
+msgstr "Settings"
+
+msgid "tpl_Purchase status_01"
+msgstr "Purchase status"
+
+msgid "tpl_Authentication key settings._01"
+msgstr "Authentication key settings."
+
+msgid "tpl_Plug-in management_01"
+msgstr "Plug-in management"
+
+msgid "tpl_Module management_01"
+msgstr "Module management"
+
+msgid "tpl_Authentication key settings_01"
+msgstr "Authentication key settings"
+
+msgid "tpl_Log management_01"
+msgstr "Log management"
+
+msgid "tpl_Home_01"
+msgstr "Home"
+
+msgid "tpl_Register_02"
+msgstr "Register"
+
+msgid "tpl_(max T_ARG1 characters)_01"
+msgstr "(max T_ARG1 characters)"
+
+msgid "tpl_Category name_01"
+msgstr "Category name"
+
+msgid "tpl_No categories are registered for this hierarchy._01"
+msgstr "No categories are registered for this hierarchy."
+
+msgid "tpl_Standard name_01"
+msgstr "Standard name"
+
+msgid "tpl_Standard name<span class='attention'> *</span>_01"
+msgstr "Standard name<span class='attention'> *</span>"
+
+msgid "tpl_Category name_02"
+msgstr "Category name"
+
+msgid "tpl_Category name<span class='attention'> *</span>_01"
+msgstr "Category name<span class='attention'> *</span>"
+
+msgid "tpl_Standard name (registered number)_01"
+msgstr "Standard name (registered number)"
+
+msgid "tpl_Category registration_01"
+msgstr "Category registration"
+
+msgid "tpl_Return to the standard list_01"
+msgstr "Return to the standard list"
+
+msgid "tpl_Finalize registration_01"
+msgstr "Finalize registration"
+
+msgid "tpl_Product category_01"
+msgstr "Product category"
+
+msgid "tpl_Product category<span class='attention'> *</span>_01"
+msgstr "Product category<span class='attention'> *</span>"
+
+msgid "tpl_Disclosed/not disclosed_01"
+msgstr "Disclosed/not disclosed"
+
+msgid "tpl_Disclosed/not disclosed<span class='attention'> *</span>_01"
+msgstr "Disclosed/not disclosed<span class='attention'> *</span>"
+
+msgid "tpl_&#36; T_ARG1_01"
+msgstr "&#36; T_ARG1"
+
+msgid "tpl_Category_02"
+msgstr "Category"
+
+msgid "tpl_Amount_01"
+msgstr "Amount"
+
+msgid "tpl_Period_01"
+msgstr "Period"
+
+msgid "tpl_Male_01"
+msgstr "Male"
+
+msgid "tpl_Female_01"
+msgstr "Female"
+
+msgid "tpl_Male (member)_01"
+msgstr "Male (member)"
+
+msgid "tpl_Male (non-member)_01"
+msgstr "Male (non-member)"
+
+msgid "tpl_Female (member)_01"
+msgstr "Female (member)"
+
+msgid "tpl_Female (non-member)_01"
+msgstr "Female (non-member)"
+
+msgid "tpl_Sales by period_01"
+msgstr "Sales by period"
+
+msgid "tpl_Sales by product_01"
+msgstr "Sales by product"
+
+msgid "tpl_Sales by age group_01"
+msgstr "Sales by age group"
+
+msgid "tpl_Sales by occupation_01"
+msgstr "Sales by occupation"
+
+msgid "tpl_Sales by member_01"
+msgstr "Sales by member"
+
+msgid "tpl_By date_01"
+msgstr "By date"
+
+msgid "tpl_By month_01"
+msgstr "By month"
+
+msgid "tpl_By year_01"
+msgstr "By year"
+
+msgid "tpl_By day_01"
+msgstr "By day"
+
+msgid "tpl_By time_01"
+msgstr "By time"
+
+msgid "tpl_Overall_01"
+msgstr "Overall"
+
+msgid "tpl_Member_01"
+msgstr "Member"
+
+msgid "tpl_Non-member_01"
+msgstr "Non-member"
+
+msgid "tpl_Enable JavaScript_01"
+msgstr "Enable JavaScript"
+
+msgid "tpl_System settings > System information_01"
+msgstr "System settings > System information"
+
+msgid "tpl_EC-CUBE version_01"
+msgstr "EC-CUBE version"
+
+msgid "tpl_PHP version_01"
+msgstr "PHP version"
+
+msgid "tpl_DB version_01"
+msgstr "DB version"
+
+msgid "tpl_Shop status_01"
+msgstr "Shop status"
+
+msgid "tpl_Current number of members_01"
+msgstr "Current number of members"
+
+msgid "tpl_Yesterday's sales_01"
+msgstr "Yesterday's sales"
+
+msgid "tpl_Number of items sold yesterday_01"
+msgstr "Number of items sold yesterday"
+
+msgid ""
+"tpl_<span>Sales for this month </span><span>(up to yesterday) </span>_01"
+msgstr "<span>Sales for this month </span><span>(up to yesterday) </span>"
+
+msgid ""
+"tpl_<span>Number of items sold this month </span><span>(up to yesterday) </"
+"span>_01"
+msgstr ""
+"<span>Number of items sold this month </span><span>(up to yesterday) </span>"
+
+msgid "tpl_Number of reviews from yesterday_01"
+msgstr "Number of reviews from yesterday"
+
+msgid "tpl_Member's total registered points_01"
+msgstr "Member's total registered points"
+
+msgid "tpl_Number of reviews not displayed_01"
+msgstr "Number of reviews not displayed"
+
+msgid "tpl_Sold-out products_01"
+msgstr "Sold-out products"
+
+msgid "tpl_List of new orders received_01"
+msgstr "List of new orders received"
+
+msgid "tpl_Return to login page_01"
+msgstr "Return to login page"
+
+msgid "tpl_Management area_01"
+msgstr "Management area"
+
+msgid "tpl_ADMIN_MODE ON_01"
+msgstr "ADMIN_MODE ON"
+
+msgid "tpl_<span>Login&nbsp;:&nbsp;T_ARG1</span>&nbsp;_01"
+msgstr "<span>Login&nbsp;:&nbsp;T_ARG1</span>&nbsp;"
+
+msgid "tpl_LOGOUT_01"
+msgstr "LOGOUT"
+
+msgid "tpl_Basic information_02"
+msgstr "Basic information"
+
+msgid "tpl_Sales history_01"
+msgstr "Sales history"
+
+msgid "tpl_Mail magazine_02"
+msgstr "Mail magazine"
+
+msgid "tpl_Edit contents_01"
+msgstr "Edit contents"
+
+msgid "tpl_Edit design_01"
+msgstr "Edit design"
+
+msgid "tpl_System settings_01"
+msgstr "System settings"
+
+msgid "tpl_Owners store_01"
+msgstr "Owners store"
+
+msgid ""
+"tpl_Copyright &copy; 2000-T_ARG1 LOCKON CO.,LTD. All Rights Reserved._01"
+msgstr "Copyright &copy; 2000-T_ARG1 LOCKON CO.,LTD. All Rights Reserved."
+
+msgid "tpl_PAGE TOP_01"
+msgstr "PAGE TOP"
+
+msgid "tpl_CHECK SITE_01"
+msgstr "CHECK SITE"
+
+msgid "tpl_Product status_01"
+msgstr "Product status"
+
+msgid "tpl_Downloaded product file name_01"
+msgstr "Downloaded product file name"
+
+msgid "tpl_Downloaded product file name<span class='attention'> *</span>_01"
+msgstr "Downloaded product file name<span class='attention'> *</span>"
+
+msgid "tpl_File for downloaded product_01"
+msgstr "File for downloaded product"
+
+msgid "tpl_Inventory count_01"
+msgstr "Inventory count"
+
+msgid "tpl_Inventory count<span class='attention'> *</span>_01"
+msgstr "Inventory count<span class='attention'> *</span>"
+
+msgid "tpl_Product shipping fee_01"
+msgstr "Product shipping fee"
+
+msgid "tpl_Point grant rate_01"
+msgstr "Point grant rate"
+
+msgid "tpl_Point grant rate<span class='attention'> *</span>_01"
+msgstr "Point grant rate<span class='attention'> *</span>"
+
+msgid "tpl_Shipment date Target_01"
+msgstr "Shipment date Target"
+
+msgid "tpl_Number of sales restrictions_01"
+msgstr "Number of sales restrictions"
+
+msgid "tpl_Manufacturer_01"
+msgstr "Manufacturer"
+
+msgid "tpl_Manufacturer URL_01"
+msgstr "Manufacturer URL"
+
+msgid "tpl_Search word_01"
+msgstr "Search word"
+
+msgid "tpl_Remarks column (for SHOP)_01"
+msgstr "Remarks column (for SHOP)"
+
+msgid "tpl_List - Main comments_01"
+msgstr "List - Main comments"
+
+msgid "tpl_List - Main comments<span class='attention'> *</span>_01"
+msgstr "List - Main comments<span class='attention'> *</span>"
+
+msgid "tpl_Details - Main comment_01"
+msgstr "Details - Main comment"
+
+msgid "tpl_List - Main images_01"
+msgstr "List - Main images"
+
+msgid "tpl_Details - Main image_01"
+msgstr "Details - Main image"
+
+msgid "tpl_Details - Main enlarged image_01"
+msgstr "Details - Main enlarged image"
+
+msgid "tpl_Details - Sub title(T_ARG1)_01"
+msgstr "Details - Sub title(T_ARG1)"
+
+msgid "tpl_Details - Sub comment(T_ARG1)_01"
+msgstr "Details - Sub comment(T_ARG1)"
+
+msgid "tpl_Details - Sub image (T_ARG1)_01"
+msgstr "Details - Sub image (T_ARG1)"
+
+msgid "tpl_Details - Sub enlarged image(T_ARG1)_01"
+msgstr "Details - Sub enlarged image(T_ARG1)"
+
+msgid "tpl_Related products(T_ARG1)_01"
+msgstr "Related products(T_ARG1)"
+
+msgid "tpl_Comment:_01"
+msgstr "Comment:"
+
+msgid "tpl_Product ID_01"
+msgstr "Product ID"
+
+msgid "tpl_Category display_01"
+msgstr "Category display"
+
+msgid "tpl_URL display_01"
+msgstr "URL display"
+
+msgid "tpl_Price(&#36;)_01"
+msgstr "Price(&#36;)"
+
+msgid "tpl_Inventory_01"
+msgstr "Inventory"
+
+msgid "tpl_Standard_01"
+msgstr "Standard"
+
+msgid "tpl_Duplication_01"
+msgstr "Duplication"
+
+msgid "tpl_Category <> URL_01"
+msgstr "Category <> URL"
+
+msgid "tpl_Manufacturer name<span class='attention'> *</span>_01"
+msgstr "Manufacturer name<span class='attention'> *</span>"
+
+msgid ""
+"tpl_File upload for downloaded product<span class='attention'> *</span>_01"
+msgstr "File upload for downloaded product<span class='attention'> *</span>"
+
+msgid "tpl_[Erase file]_01"
+msgstr "[Erase file]"
+
+msgid ""
+"tpl_Extensions for uploaded files: T_ARG1 (Parameter DOWNLOAD_EXTENSION)_01"
+msgstr "Extensions for uploaded files: T_ARG1 (Parameter DOWNLOAD_EXTENSION)"
+
+msgid "tpl_(Numbers only)_01"
+msgstr "(Numbers only)"
+
+msgid "tpl_* Currently invalid_01"
+msgstr "* Currently invalid"
+
+msgid "tpl_(Parameter OPTION_PRODUCT_DELIV_FEE)_01"
+msgstr "(Parameter OPTION_PRODUCT_DELIV_FEE)"
+
+msgid "tpl_Search word *If multiple words, separate using a comma (,)_01"
+msgstr "Search word *If multiple words, separate using a comma (,)"
+
+msgid "tpl_Subinformation_01"
+msgstr "Subinformation"
+
+msgid "tpl_(Tags permitted)_01"
+msgstr "(Tags permitted)"
+
+msgid "tpl_Toggle display of subinformation_01"
+msgstr "Toggle display of subinformation"
+
+msgid "tpl_Toggle display of related products_01"
+msgstr "Toggle display of related products"
+
+msgid "tpl_Related products_01"
+msgstr "Related products"
+
+msgid "tpl_Product specification registration_01"
+msgstr "Product specification registration"
+
+msgid "tpl_Display_02"
+msgstr "Display"
+
+msgid "tpl_Delete_01"
+msgstr "Delete"
+
+msgid ""
+"tpl_<span class='bold'>Extension that can be uploaded:</span>T_ARG1"
+"(Parameter DOWNLOAD_EXTENSION)_01"
+msgstr ""
+"<span class='bold'>Extension that can be uploaded:</span>T_ARG1(Parameter "
+"DOWNLOAD_EXTENSION)"
+
+msgid "tpl_Copy the data on the 1st line_01"
+msgstr "Copy the data on the 1st line"
+
+msgid "tpl_T_ARG1(&#36;)_01"
+msgstr "T_ARG1(&#36;)"
+
+msgid "tpl_Downloaded file name_01"
+msgstr "Downloaded file name"
+
+msgid "tpl_Max T_ARG1 characters_01"
+msgstr "Max T_ARG1 characters"
+
+msgid "tpl_Downloaded file name_02"
+msgstr "Downloaded file name"
+
+msgid "tpl_File upload for downloaded product_01"
+msgstr "File upload for downloaded product"
+
+msgid "tpl_* A standard is not selected._01"
+msgstr "* A standard is not selected."
+
+msgid "tpl_Go back_01"
+msgstr "Go back"
+
+msgid "tpl_<span class='attention'>T_ARG1 items</span> were found._01"
+msgstr "<span class='attention'>T_ARG1 items</span> were found."
+
+msgid "tpl_Reallocation of internal ranking_01"
+msgstr "Reallocation of internal ranking"
+
+msgid "tpl_(Not disclosed)_01"
+msgstr "(Not disclosed)"
+
+msgid "tpl_Select a category._01"
+msgstr "Select a category."
+
+msgid "tpl_Poster name_01"
+msgstr "Poster name"
+
+msgid "tpl_Poster URL_01"
+msgstr "Poster URL"
+
+msgid "tpl_Recommendation level_01"
+msgstr "Recommendation level"
+
+msgid "tpl_Post date_01"
+msgstr "Post date"
+
+msgid "tpl_Display/Not display_01"
+msgstr "Display/Not display"
+
+msgid "tpl_Not displayed_01"
+msgstr "Not displayed"
+
+msgid "tpl_Review display_01"
+msgstr "Review display"
+
+msgid "tpl_Product master_01"
+msgstr "Product master"
+
+msgid "tpl_Product registration_01"
+msgstr "Product registration"
+
+msgid "tpl_Product registration CSV"
+msgstr "Product registration CSV"
+
+msgid "tpl_Standard management_01"
+msgstr "Standard management"
+
+msgid "tpl_Category registration_02"
+msgstr "Category registration"
+
+msgid "tpl_Category registration CSV_01"
+msgstr "Category registration CSV"
+
+msgid "tpl_Manufacturer registration_01"
+msgstr "Manufacturer registration"
+
+msgid "tpl_Product rearrangement_01"
+msgstr "Product rearrangement"
+
+msgid "tpl_Review management_01"
+msgstr "Review management"
+
+msgid "tpl_[Value:T_ARG1]_01"
+msgstr "[Value:T_ARG1]"
+
+msgid "tpl_CSV file_01"
+msgstr "CSV file"
+
+msgid "tpl_(First line is title)_01"
+msgstr "(First line is title)"
+
+msgid "tpl_Registration information_01"
+msgstr "Registration information"
+
+msgid "tpl_T_ARG1 Item: T_ARG2_01"
+msgstr "T_ARG1 Item: T_ARG2"
+
+msgid "tpl_Register with these contents_01"
+msgstr "Register with these contents"
+
+msgid "tpl_CSV registration has been executed._01"
+msgstr "CSV registration has been executed."
+
+msgid ""
+"tpl_When incorrect settings are applied, it may no longer be possible to "
+"access the management screen.<br/>Do not change these settings if you are "
+"not familiar with them._01"
+msgstr ""
+"When incorrect settings are applied, it may no longer be possible to access "
+"the management screen.<br/>Do not change these settings if you are not "
+"familiar with them."
+
+msgid "tpl_Directory name_01"
+msgstr "Directory name"
+
+msgid "tpl_SSL restrictions_01"
+msgstr "SSL restrictions"
+
+msgid "tpl_IP restriction_01"
+msgstr "IP restriction"
+
+msgid "tpl_Make SSL mandatory._01"
+msgstr "Make SSL mandatory."
+
+msgid ""
+"tpl_* Access to the management area is limited to only connections from a "
+"designated IP address._01"
+msgstr ""
+"* Access to the management area is limited to only connections from a "
+"designated IP address.<br />You may enter an IP address per line to gain "
+"access to the page. If nothing is entered, access will be permitted to all "
+"IP addresses."
+
+msgid "tpl_Do you want to restore?_01"
+msgstr "Do you want to restore?"
+
+msgid ""
+"tpl_The database will be backed up.<br />The template file, etc. has not "
+"been backed up._01"
+msgstr ""
+"The database will be backed up.<br />The template file, etc. has not been "
+"backed up."
+
+msgid "tpl_Backup name_01"
+msgstr "Backup name"
+
+msgid "tpl_Backup name<span class='attention'> *</span>_01"
+msgstr "Backup name<span class='attention'> *</span>"
+
+msgid "tpl_Backup memo_01"
+msgstr "Backup memo"
+
+msgid "tpl_Create backup data_01"
+msgstr "Create backup data"
+
+msgid "tpl_Backup list_01"
+msgstr "Backup list"
+
+msgid "tpl_Restore_01"
+msgstr "Restore"
+
+msgid "tpl_Execution results_01"
+msgstr "Execution results"
+
+msgid "tpl_Ignore the error and restore_01"
+msgstr "Ignore the error and restore"
+
+msgid "tpl_Change_02"
+msgstr "Change"
+
+msgid "tpl_Index_01"
+msgstr "Index"
+
+msgid "tpl_Table name_01"
+msgstr "Table name"
+
+msgid "tpl_Column name_01"
+msgstr "Column name"
+
+msgid "tpl_ON_01"
+msgstr "ON"
+
+msgid "tpl_OFF_01"
+msgstr "OFF"
+
+msgid "tpl_Add member_01"
+msgstr "Add member"
+
+msgid "tpl_Access_01"
+msgstr "Access"
+
+msgid "tpl_Affiliation_01"
+msgstr "Affiliation"
+
+msgid "tpl_Operating_01"
+msgstr "Operating"
+
+msgid "tpl_Member registration/editing_01"
+msgstr "Member registration/editing"
+
+msgid "tpl_* Enter required_01"
+msgstr "* Enter required"
+
+msgid "tpl_Login ID_01"
+msgstr "Login ID"
+
+msgid "tpl_* Alphanumeric characters T_ARG1 to T_ARG2 _01"
+msgstr "* Alphanumeric characters T_ARG1 to T_ARG2 "
+
+msgid "tpl_Operating/Not operating_01"
+msgstr "Operating/Not operating"
+
+msgid "tpl_Not operating_01"
+msgstr "Not operating"
+
+msgid "tpl_It is possible to set master data values._01"
+msgstr ""
+"It is possible to set master data values.<br />It is not possible to "
+"register a duplicate ID.<br />When a blank ID is registered, the value is "
+"deleted.<br />Be careful as the site may no longer function depending on the "
+"settings values."
+
+msgid "tpl_Value:_01"
+msgstr "Value:"
+
+msgid "tpl_Additional data_01"
+msgstr "Additional data"
+
+msgid "tpl_The parameter value is set as a PHP constant._01"
+msgstr ""
+"The parameter value is set as a PHP constant.<br />Surround character "
+"strings with [&quot;].<br />Be careful as the site may no longer function "
+"depending on the settings values."
+
+msgid "tpl_Constant name_01"
+msgstr "Constant name"
+
+msgid "tpl_Parameter value_01"
+msgstr "Parameter value"
+
+msgid "tpl_Admin management_01"
+msgstr "Admin management"
+
+msgid "tpl_Backup management_01"
+msgstr "Backup management"
+
+msgid "tpl_Parameter settings_01"
+msgstr "Parameter settings"
+
+msgid "tpl_Master data management_01"
+msgstr "Master data management"
+
+msgid "tpl_Management screen settings_01"
+msgstr "Management screen settings"
+
+msgid "tpl_System information_01"
+msgstr "System information"
+
+msgid "tpl_EC-CUBE log display_01"
+msgstr "EC-CUBE log display"
+
+msgid "tpl_Advanced database management_01"
+msgstr "Advanced database management"
+
+msgid "tpl_Overview_01"
+msgstr "Overview"
+
+msgid "tpl_PHP information_01"
+msgstr "PHP information"
+
+msgid "tpl_Monthly sales_01"
+msgstr "Monthly sales"
+
+msgid "tpl_Sales by month_01"
+msgstr "Sales by month"
+
+msgid "tpl_Period sales_01"
+msgstr "Period sales"
+
+msgid "tpl_Sales by period_02"
+msgstr "Sales by period"
+
+msgid "tpl_Age_01"
+msgstr "Age"
+
+msgid "tpl_Number of items purchased_01"
+msgstr "Number of items purchased"
+
+msgid "tpl_Purchase total_01"
+msgstr "Purchase total"
+
+msgid "tpl_Purchase average_01"
+msgstr "Purchase average"
+
+msgid "tpl_T_ARG1 item_01"
+msgstr "T_ARG1 item"
+
+msgid "tpl_SQL settings (being edited:T_ARG1)_01"
+msgstr "SQL settings (being edited:T_ARG1)"
+
+msgid "tpl_SQL settings (Newly input)_01"
+msgstr "SQL settings (Newly input)"
+
+msgid "tpl_Details - Sub image(T_ARG1)<br />[T_ARG2 x T_ARG3]_01"
+msgstr "Details - Sub image(T_ARG1)<br />[T_ARG2 x T_ARG3]"
+
+msgid "tpl_Details - Sub enlarged image(T_ARG1)<br />[T_ARG2 x T_ARG3]_01"
+msgstr "Details - Sub enlarged image(T_ARG1)<br />[T_ARG2 x T_ARG3]"
+
+msgid "tpl_*  Uniform shipping rates(&#036;):_01"
+msgstr "*  Uniform shipping rates(&#036;):"
+
+msgid "tpl_T_ARG1<span class='attention'> *</span>_01"
+msgstr "T_ARG1<span class='attention'> *</span>"
+
+msgid "tpl_List - Main images<br />[T_ARG1 x T_ARG2]_01"
+msgstr "List - Main images<br />[T_ARG1 x T_ARG2]"
+
+msgid "tpl_Details - Main image<br />[T_ARG1 x T_ARG2]_01"
+msgstr "Details - Main image<br />[T_ARG1 x T_ARG2]"
+
+msgid "tpl_Details - Main enlarged image<br />[T_ARG1 x T_ARG2]_01"
+msgstr "Details - Main enlarged image<br />[T_ARG1 x T_ARG2]"
+
+msgid "tpl_Line(s)_01"
+msgstr "Line(s)"
+
+msgid "tpl_ and above is free!_01"
+msgstr " and above is free!"
+
+msgid "tpl_Days active_01"
+msgstr "Days active"
+
+msgid "tpl_Nearest line_01"
+msgstr "Nearest line"
+
+msgid "tpl_Comment <span class='attention'>*</span>_01"
+msgstr "Comment <span class='attention'>*</span>"
+
+msgid "tpl_The delivery destination has not been entered._01"
+msgstr "The delivery destination has not been entered."
+
+msgid "tpl_Mail_01"
+msgstr "Mail"
+
+msgid ""
+"tpl_(Due to changes in shipping companies, please manually select a shipping "
+"method.)_01"
+msgstr ""
+"(Due to changes in shipping companies, please manually select a shipping "
+"method.)"
+
+msgid "tpl_(Due to changes in payment, please manually select a fee.)_01"
+msgstr "(Due to changes in payment, please manually select a fee.)"
+
+msgid "tpl_Add product_01"
+msgstr "Add product"
+
+msgid "tpl_Find users_01"
+msgstr "Find users"
+
+msgid "tpl_T_ARG1_01"
+msgstr "T_ARG1"
+
+msgid "tpl_s1YearT_ARG2MonthT_ARG3Day_01"
+msgstr "T_ARG1YearT_ARG2MonthT_ARG3Day"
+
+msgid "tpl_T_ARG1/T_ARG2_01"
+msgstr "T_ARG1/T_ARG2"
+
+msgid "tpl_T_ARG1_02"
+msgstr "T_ARG1"
+
+msgid "tpl_(None)_01"
+msgstr "(None)"
+
+msgid "tpl_Not selected_01"
+msgstr "Not selected"
+
+msgid "tpl_*Agreement to the license agreement_01"
+msgstr "*Agreement to the license agreement"
+
+msgid ""
+"tpl_Please read the license agreement below.<br />It is necessary to agree "
+"to the agreement in order to continue with installation_01"
+msgstr ""
+"Please read the license agreement below.<br />It is necessary to agree to "
+"the agreement in order to continue with installation."
+
+msgid ""
+"tpl_Please agree to the software license agreement<br /><br />Lockon Co., "
+"Ltd. (hereinafter referred to as 'our company') requires customers to agree "
+"to the contents of the 'Software License Agreement' below to be able to use "
+"this software. You will be deemed as having agreed to the 'Software License "
+"Agreement' below at the point in time that you install, copy, or use this "
+"software.<br /><br />--------------------- Software License Agreement "
+"---------------------<br /><br />1. License<br /><br />EC-CUBE adopts a "
+"'dual license method' in which you can select either a free GPL license or "
+"paid commercial license for using the EC-CUBE product. The major "
+"characteristics of each license are as follows.<br /><br />1-1. GPL "
+"license<br /><br />Although it is possible to use EC-CUBE for free, and "
+"carry out duplication, modification, and distribution, if distributing an "
+"application that uses EC-CUBE, you must publish the source code for the "
+"application and make it utilizable.<br /><br />* When modifying, you may "
+"modify everything except for the copyright notice in the header section of "
+"the program file (PHP file, etc.) <br /><br />* With regard to the official "
+"conditions of the GPL license (GNU General Public License), please refer to "
+"http://www.fsf.org/licenses/ (Japanese translation: http://www.opensource.jp/"
+"gpl/gpl.ja.html).<br /><br />1-2. Commercial license <br /><br />The EC-CUBE "
+"commercial license is a license for parties who do not want to comply with "
+"the GPL license. <br />When you purchase an EC-CUBE commercial license, it "
+"is not necessary to make your own application an open source, within the "
+"scope of the commercial license. <br /><br />* A commercial license is "
+"necessary for all uses that do not comply with the GPL license. <br /><br /"
+">* For details regarding the commercial license, refer to http://www.ec-cube."
+"net/license/business.php.<br /><br />2. Exclusion of liability<br /><br /"
+">2-1. Users shall confirm and agree that all direct and indirect damages "
+"(data loss, server trouble, halting of operations, claims from a third "
+"party, etc.) and dangers arising from use of this software are entirely the "
+"responsibility of the user.<br />2-2. In any case, and even in cases of "
+"illegal behavior, agreement, or any other legal basis, the suppliers, "
+"resellers, and various information contents providers for this software are "
+"not responsible for any direct, indirect, specific, incidental, or "
+"consequential loss or damage of the customer or other third party, including "
+"the loss of sales value, halting of operations, damage resulting from "
+"computer malfunctions, and any other commercial loss or damages, etc. "
+"Furthermore, our company is not responsible for any claims by a third party. "
+"<br /><br />3. Gathering of site information <br /><br />3-1 When installing "
+"EC-CUBE, the customer confirms and agrees that our company gathers "
+"information such as the site URL, store name, EC-CUBE version, PHP "
+"information, DB information, etc.<br />_01"
+msgstr ""
+"Please agree to the software license agreement<br /><br />Lockon Co., Ltd. "
+"(hereinafter referred to as 'our company') requires customers to agree to "
+"the contents of the 'Software License Agreement' below to be able to use "
+"this software. You will be deemed as having agreed to the 'Software License "
+"Agreement' below at the point in time that you install, copy, or use this "
+"software.<br /><br />--------------------- Software License Agreement "
+"---------------------<br /><br />1. License<br /><br />EC-CUBE adopts a "
+"'dual license method' in which you can select either a free GPL license or "
+"paid commercial license for using the EC-CUBE product. The major "
+"characteristics of each license are as follows.<br /><br />1-1. GPL "
+"license<br /><br />Although it is possible to use EC-CUBE for free, and "
+"carry out duplication, modification, and distribution, if distributing an "
+"application that uses EC-CUBE, you must publish the source code for the "
+"application and make it utilizable.<br /><br />* When modifying, you may "
+"modify everything except for the copyright notice in the header section of "
+"the program file (PHP file, etc.) <br /><br />* With regard to the official "
+"conditions of the GPL license (GNU General Public License), please refer to "
+"http://www.fsf.org/licenses/ (Japanese translation: http://www.opensource.jp/"
+"gpl/gpl.ja.html).<br /><br />1-2. Commercial license <br /><br />The EC-CUBE "
+"commercial license is a license for parties who do not want to comply with "
+"the GPL license. <br />When you purchase an EC-CUBE commercial license, it "
+"is not necessary to make your own application an open source, within the "
+"scope of the commercial license. <br /><br />* A commercial license is "
+"necessary for all uses that do not comply with the GPL license. <br /><br /"
+">* For details regarding the commercial license, refer to http://www.ec-cube."
+"net/license/business.php.<br /><br />2. Exclusion of liability<br /><br /"
+">2-1. Users shall confirm and agree that all direct and indirect damages "
+"(data loss, server trouble, halting of operations, claims from a third "
+"party, etc.) and dangers arising from use of this software are entirely the "
+"responsibility of the user.<br />2-2. In any case, and even in cases of "
+"illegal behavior, agreement, or any other legal basis, the suppliers, "
+"resellers, and various information contents providers for this software are "
+"not responsible for any direct, indirect, specific, incidental, or "
+"consequential loss or damage of the customer or other third party, including "
+"the loss of sales value, halting of operations, damage resulting from "
+"computer malfunctions, and any other commercial loss or damages, etc. "
+"Furthermore, our company is not responsible for any claims by a third party. "
+"<br /><br />3. Gathering of site information <br /><br />3-1 When installing "
+"EC-CUBE, the customer confirms and agrees that our company gathers "
+"information such as the site URL, store name, EC-CUBE version, PHP "
+"information, DB information, etc.<br />"
+
+msgid "tpl_Agree_01"
+msgstr "Agree"
+
+msgid "tpl_Do not agree_01"
+msgstr "Do not agree"
+
+msgid "tpl_Next_01"
+msgstr "Next"
+
+msgid "tpl_EC CUBE installation is complete._01"
+msgstr "EC CUBE installation is complete."
+
+msgid "tpl_Log in using the ID and password that you just registered._01"
+msgstr "Log in using the ID and password that you just registered."
+
+msgid "tpl_Log in to management screen_01"
+msgstr "Log in to management screen"
+
+msgid "tpl_EC-CUBE Installation_01"
+msgstr "EC-CUBE Installation"
+
+msgid ""
+"tpl_This is a notice from EC-CUBE. Please use a browser that supports iframe "
+"for this section._01"
+msgstr ""
+"This is a notice from EC-CUBE. Please use a browser that supports iframe for "
+"this section."
+
+msgid "tpl_Check results_01"
+msgstr "Check results"
+
+msgid "tpl_When [Next] is clicked, a check will be executed once again._01"
+msgstr "When [Next] is clicked, a check will be executed once again."
+
+msgid "tpl_Ignore problems and proceed (for advanced users)_01"
+msgstr "Ignore problems and proceed (for advanced users)"
+
+msgid ""
+"tpl_* If you proceed without resolving the problem, this may lead to "
+"problems._01"
+msgstr ""
+"* If you proceed without resolving the problem, this may lead to problems."
+
+msgid "tpl_Copying of necessary files will begin._01"
+msgstr "Copying of necessary files will begin."
+
+msgid "tpl_Copying of necessary files_01"
+msgstr "Copying of necessary files"
+
+msgid "tpl_EC site settings_01"
+msgstr "EC site settings"
+
+msgid "tpl_Fill in the name of your store._01"
+msgstr "Fill in the name of your store."
+
+msgid "tpl_The address will be the one in the order receipt mail, etc._01"
+msgstr "The address will be the one in the order receipt mail, etc."
+
+msgid "tpl_Login ID <span class='attention'>*</span>_01"
+msgstr "Login ID <span class='attention'>*</span>"
+
+msgid "tpl_ID for logging in to the management area._01"
+msgstr "ID for logging in to the management area."
+
+msgid "tpl_Password for logging in to the management area._01"
+msgstr "Password for logging in to the management area."
+
+msgid "tpl_Management area settings_01"
+msgstr "Management area settings"
+
+msgid "tpl_Directory_01"
+msgstr "Directory"
+
+msgid "tpl_(Example) eccube@example.com_01"
+msgstr "(Example) eccube@example.com"
+
+msgid "tpl_Directory name for management area._01"
+msgstr "Directory name for management area."
+
+msgid "tpl_Access the management area with link below._01"
+msgstr "Access the management area with link below."
+
+msgid ""
+"tpl_https://[Host name].[Domain name]/[Shop directory]/<span class='bold'>"
+"[Directory]</span>/_01"
+msgstr ""
+"https://[Host name].[Domain name]/[Shop directory]/<span class='bold'>"
+"[Directory]</span>/"
+
+msgid ""
+"tpl_Access to the management area is limited to SSL (https) connections._01"
+msgstr "Access to the management area is limited to SSL (https) connections."
+
+msgid "tpl_WEB server settings_01"
+msgstr "WEB server settings"
+
+msgid "tpl_URL (normal) <span class='attention'>*</span>_01"
+msgstr "URL (normal) <span class='attention'>*</span>"
+
+msgid "tpl_URL (secure) <span class='attention'>*</span>_01"
+msgstr "URL (secure) <span class='attention'>*</span>"
+
+msgid "tpl_Common domain_01"
+msgstr "Common domain"
+
+msgid ""
+"tpl_Designated when the subdomain differs based on normal URL and secure URL."
+"_01"
+msgstr ""
+"Designated when the subdomain differs based on normal URL and secure URL."
+
+msgid "tpl_&gt;&gt; Option settings_01"
+msgstr "&gt;&gt; Option settings"
+
+msgid "tpl_E-mail server settings (option)_01"
+msgstr "E-mail server settings (option)"
+
+msgid "tpl_Mailer backend <span class='attention'>*</span>_01"
+msgstr "Mailer backend <span class='attention'>*</span>"
+
+msgid ""
+"tpl_mail - PHP built-in function  mail() is used to send.<br />SMTP - E-"
+"mails are sent by directly connecting to the SMTP server.<br />sendmail - "
+"Sent through the sendmail program._01"
+msgstr ""
+"mail - PHP built-in function  mail() is used to send.<br />SMTP - E-mails "
+"are sent by directly connecting to the SMTP server.<br />sendmail - Sent "
+"through the sendmail program."
+
+msgid "tpl_SMTP host_01"
+msgstr "SMTP host"
+
+msgid "tpl_Use only when the mailer backend is SMTP._01"
+msgstr "Use only when the mailer backend is SMTP."
+
+msgid "tpl_SMTP port_01"
+msgstr "SMTP port"
+
+msgid "tpl_SMTP user_01"
+msgstr "SMTP user"
+
+msgid ""
+"tpl_Use only when the mailer backend is SMTP and SMTP-AUTH is also used._01"
+msgstr "Use only when the mailer backend is SMTP and SMTP-AUTH is also used."
+
+msgid "tpl_SMTP password_01"
+msgstr "SMTP password"
+
+msgid "tpl_Database settings_01"
+msgstr "Database settings"
+
+msgid "tpl_* You must create a new database before installation._01"
+msgstr "* You must create a new database before installation."
+
+msgid "tpl_DB type <span class='attention'>*</span>_01"
+msgstr "DB type <span class='attention'>*</span>"
+
+msgid "tpl_DB server_01"
+msgstr "DB server"
+
+msgid "tpl_Port_01"
+msgstr "Port"
+
+msgid "tpl_DB name <span class='attention'>*</span>_01"
+msgstr "DB name <span class='attention'>*</span>"
+
+msgid "tpl_DB user <span class='attention'>*</span>_01"
+msgstr "DB user <span class='attention'>*</span>"
+
+msgid "tpl_DB password <span class='attention'>*</span>_01"
+msgstr "DB password <span class='attention'>*</span>"
+
+msgid ""
+"tpl_Are you sure you want to remove this item?It can not be restored._01"
+msgstr ""
+"Are you sure you want to remove this item? \n"
+"It can not be restored."
+
+msgid "tpl_Database initialization_01"
+msgstr "Database initialization"
+
+msgid "tpl_Connection information_01"
+msgstr "Connection information"
+
+msgid ""
+"tpl_Database initialization will begin.<br />* Will be suspended if a table, "
+"etc. is already created._01"
+msgstr ""
+"Database initialization will begin.<br />* Will be suspended if a table, "
+"etc. is already created."
+
+msgid "tpl_Do not carry out the database initialization process_01"
+msgstr "Do not carry out the database initialization process"
+
+msgid "tpl_Delete all existing data_01"
+msgstr "Delete all existing data"
+
+msgid "tpl_Site information_01"
+msgstr "Site information"
+
+msgid ""
+"tpl_Please provide the information below for the purpose of debugging and "
+"improving the EC-CUBE system._01"
+msgstr ""
+"Please provide the information below for the purpose of debugging and "
+"improving the EC-CUBE system."
+
+msgid "tpl_Site URL: _01"
+msgstr "Site URL: "
+
+msgid "tpl_Store name: _01"
+msgstr "Store name: "
+
+msgid "tpl_EC-CUBE version: _01"
+msgstr "EC-CUBE version: "
+
+msgid "tpl_PHP information: _01"
+msgstr "PHP information: "
+
+msgid "tpl_DB information: _01"
+msgstr "DB information: "
+
+msgid "tpl_OS information: _01"
+msgstr "OS information: "
+
+msgid "tpl_Yes (recommended)_01"
+msgstr "Yes (recommended)"
+
+msgid "tpl_No_02"
+msgstr "No"
+
+msgid "tpl_EC-CUBE installation will begin._01"
+msgstr "EC-CUBE installation will begin."
+
+msgid ""
+"tpl_<span class='attention'>* The authentication key can be obtained from <a "
+"href='T_ARG1' target='_blank'>the EC-CUBE Owners Store</a>.</span>_01"
+msgstr ""
+"<span class='attention'>* The authentication key can be obtained from <a "
+"href='T_ARG1' target='_blank'>the EC-CUBE Owners Store</a>.</span>"
+
+msgid ""
+"tpl_You can log in to <a href='T_ARG1T_ARG2T_ARG3'>the management screen</a>."
+"_01"
+msgstr ""
+"You can log in to <a href='T_ARG1T_ARG2T_ARG3'>the management screen</a>."
+
+msgid "tpl_Monthly (end of month)_01"
+msgstr "Monthly (end of month)"
+
+msgid "tpl_Monthly (by T_ARG1)_01"
+msgstr "Monthly (by T_ARG1)"
+
+msgid "tpl_ID:_01"
+msgstr "ID:"
+
+msgid "tpl_T_ARG1:_01"
+msgstr "T_ARG1:"
+
+msgid "-"
+msgstr " - "
+
+msgid "%"
+msgstr " %"
+
+msgid "currency_prefix"
+msgstr "$"
+
+msgid "currency_suffix"
+msgstr " "
+
+msgid "times_prefix"
+msgstr " "
+
+msgid "times_suffix"
+msgstr " times"
+
+msgid "record_prefix"
+msgstr " "
+
+msgid "record_suffix"
+msgstr " items"
+
+msgid "pt_prefix"
+msgstr " "
+
+msgid "pt_suffix"
+msgstr " pts"
